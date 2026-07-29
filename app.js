@@ -1,14 +1,41 @@
 const tabs = [...document.querySelectorAll(".tab")];
 
-tabs.forEach((tab) => {
-  tab.addEventListener("click", () => {
-    tabs.forEach((item) => item.setAttribute("aria-selected", "false"));
-    document.querySelectorAll(".period-panel").forEach((panel) => {
-      panel.hidden = true;
-    });
+function activateTab(tab, focus = false) {
+  tabs.forEach((item) => {
+    const isActive = item === tab;
+    item.setAttribute("aria-selected", String(isActive));
+    item.tabIndex = isActive ? 0 : -1;
+  });
 
-    tab.setAttribute("aria-selected", "true");
-    document.getElementById(tab.dataset.target).hidden = false;
+  document.querySelectorAll(".period-panel").forEach((panel) => {
+    panel.hidden = panel.id !== tab.dataset.target;
+  });
+
+  if (focus) {
+    tab.focus();
+  }
+}
+
+tabs.forEach((tab) => {
+  tab.tabIndex = tab.getAttribute("aria-selected") === "true" ? 0 : -1;
+
+  tab.addEventListener("click", () => {
+    activateTab(tab);
+  });
+
+  tab.addEventListener("keydown", (event) => {
+    const currentIndex = tabs.indexOf(tab);
+    let nextIndex = null;
+
+    if (event.key === "ArrowRight") nextIndex = (currentIndex + 1) % tabs.length;
+    if (event.key === "ArrowLeft") nextIndex = (currentIndex - 1 + tabs.length) % tabs.length;
+    if (event.key === "Home") nextIndex = 0;
+    if (event.key === "End") nextIndex = tabs.length - 1;
+
+    if (nextIndex !== null) {
+      event.preventDefault();
+      activateTab(tabs[nextIndex], true);
+    }
   });
 });
 
@@ -34,6 +61,9 @@ function fallbackCopy(text) {
 }
 
 document.querySelectorAll(".copy-title").forEach((button) => {
+  button.type = "button";
+  button.setAttribute("aria-label", `复制标题：${button.dataset.copy}`);
+
   button.addEventListener("click", async () => {
     const originalLabel = button.textContent;
     let copied = false;
@@ -46,9 +76,16 @@ document.querySelectorAll(".copy-title").forEach((button) => {
     }
 
     button.textContent = copied ? "已复制" : "复制失败";
+    const copyStatus = document.getElementById("copy-status");
+    if (copyStatus) {
+      copyStatus.textContent = copied
+        ? `已复制标题：${button.dataset.copy}`
+        : `复制失败：${button.dataset.copy}`;
+    }
 
     window.setTimeout(() => {
       button.textContent = originalLabel;
+      if (copyStatus) copyStatus.textContent = "";
     }, 1400);
   });
 });
