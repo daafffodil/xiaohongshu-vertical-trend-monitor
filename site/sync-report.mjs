@@ -1,6 +1,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { resolve } from "node:path";
 import { fileURLToPath } from "node:url";
+import { generateHomeData } from "./generate-home-data.mjs";
 import { renderReportPages } from "./render-report.mjs";
 
 const project = resolve(fileURLToPath(new URL("..", import.meta.url)));
@@ -38,6 +39,7 @@ const archive = sanitizeForPublic(
 
 await writeFile(resolve(project, "report.md"), report, "utf8");
 await writeFile(resolve(project, "archive.md"), archive, "utf8");
+await generateHomeData(project);
 await renderReportPages(project);
 
-console.log("Synced sanitized Markdown report and archive");
+console.log("Synced sanitized Markdown report, archive, and homepage data");
