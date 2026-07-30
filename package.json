@@ -6,6 +6,8 @@
   "scripts": {
     "dev": "node site/dev-server.mjs",
     "build": "node site/build.mjs",
+    "render:report": "node site/render-report.mjs",
+    "sync:report": "node site/sync-report.mjs",
     "start": "node site/dev-server.mjs"
   },
   "engines": {

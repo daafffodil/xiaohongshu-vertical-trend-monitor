@@ -1,13 +1,20 @@
 import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
+import { renderReportPages } from "./render-report.mjs";
 
 const here = dirname(fileURLToPath(import.meta.url));
 const project = resolve(here, "..");
 const dist = join(project, "dist");
+await renderReportPages(project);
 const html = await readFile(join(project, "index.html"), "utf8");
 const css = await readFile(join(project, "styles.css"), "utf8");
 const script = await readFile(join(project, "app.js"), "utf8");
+const reportHtml = await readFile(join(project, "report.html"), "utf8");
+const archiveHtml = await readFile(join(project, "archive.html"), "utf8");
+const reportMarkdown = await readFile(join(project, "report.md"), "utf8");
+const archiveMarkdown = await readFile(join(project, "archive.md"), "utf8");
+const reportCss = await readFile(join(project, "report.css"), "utf8");
 const hosting = JSON.parse(
   await readFile(join(project, ".openai", "hosting.json"), "utf8"),
 );
@@ -24,9 +31,14 @@ await mkdir(join(dist, ".openai"), { recursive: true });
 await writeFile(join(dist, "client", "index.html"), html, "utf8");
 await writeFile(join(dist, "client", "styles.css"), css, "utf8");
 await writeFile(join(dist, "client", "app.js"), script, "utf8");
+await writeFile(join(dist, "client", "report.html"), reportHtml, "utf8");
+await writeFile(join(dist, "client", "archive.html"), archiveHtml, "utf8");
+await writeFile(join(dist, "client", "report.md"), reportMarkdown, "utf8");
+await writeFile(join(dist, "client", "archive.md"), archiveMarkdown, "utf8");
+await writeFile(join(dist, "client", "report.css"), reportCss, "utf8");
 await writeFile(
   join(dist, "server", "index.js"),
-  `const html=${JSON.stringify(html)};\nconst css=${JSON.stringify(css)};\nconst script=${JSON.stringify(script)};\nexport default {async fetch(request){const url=new URL(request.url);if(url.pathname==="/health")return new Response("ok");if(url.pathname.endsWith("/styles.css"))return new Response(css,{headers:{"content-type":"text/css; charset=utf-8"}});if(url.pathname.endsWith("/app.js"))return new Response(script,{headers:{"content-type":"text/javascript; charset=utf-8"}});return new Response(html,{headers:{"content-type":"text/html; charset=utf-8","cache-control":"public, max-age=300","x-content-type-options":"nosniff"}})}};\n`,
+  `const html=${JSON.stringify(html)};\nconst css=${JSON.stringify(css)};\nconst script=${JSON.stringify(script)};\nconst reportHtml=${JSON.stringify(reportHtml)};\nconst archiveHtml=${JSON.stringify(archiveHtml)};\nconst reportMarkdown=${JSON.stringify(reportMarkdown)};\nconst archiveMarkdown=${JSON.stringify(archiveMarkdown)};\nconst reportCss=${JSON.stringify(reportCss)};\nconst secure={"cache-control":"public, max-age=300","x-content-type-options":"nosniff"};\nexport default {async fetch(request){const url=new URL(request.url);const path=url.pathname.replace(/\\/+$/,"")||"/";if(path==="/health")return new Response("ok");if(path.endsWith("/styles.css"))return new Response(css,{headers:{...secure,"content-type":"text/css; charset=utf-8"}});if(path.endsWith("/app.js"))return new Response(script,{headers:{...secure,"content-type":"text/javascript; charset=utf-8"}});if(path.endsWith("/report.css"))return new Response(reportCss,{headers:{...secure,"content-type":"text/css; charset=utf-8"}});if(path.endsWith("/report.md"))return new Response(reportMarkdown,{headers:{...secure,"content-type":"text/markdown; charset=utf-8"}});if(path.endsWith("/archive.md"))return new Response(archiveMarkdown,{headers:{...secure,"content-type":"text/markdown; charset=utf-8"}});if(path.endsWith("/report")||path.endsWith("/report.html"))return new Response(reportHtml,{headers:{...secure,"content-type":"text/html; charset=utf-8"}});if(path.endsWith("/archive")||path.endsWith("/archive.html"))return new Response(archiveHtml,{headers:{...secure,"content-type":"text/html; charset=utf-8"}});return new Response(html,{headers:{...secure,"content-type":"text/html; charset=utf-8"}})}};\n`,
   "utf8",
 );
 await writeFile(

@@ -43,6 +43,23 @@ npm run build
 
 站点为静态页面，可直接部署到 GitHub Pages。
 
+## Markdown 报告页
+
+- 当前报告：`report.html`
+- 历史日榜：`archive.html`
+- Markdown 源文件：`report.md`、`archive.md`
+
+从监控工作区同步新报告时运行：
+
+```bash
+npm run sync:report -- <趋势总报.md> <日榜归档.md>
+```
+
+同步脚本会移除小红书临时访问参数，保留公开笔记 ID，并重新生成可分享的静态页面。GitHub Pages 的分享地址为：
+
+- `https://daafffodil.github.io/xiaohongshu-vertical-trend-monitor/report.html`
+- `https://daafffodil.github.io/xiaohongshu-vertical-trend-monitor/archive.html`
+
 ## 视觉系统
 
 视觉原则参考 London Institute for Mathematical Sciences 对自身网站的公开总结：简洁、清晰、持续演进、模块化与可递归分割网格。本站只借鉴设计原则，不复制其品牌资产或页面。
