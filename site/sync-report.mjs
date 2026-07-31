@@ -1,4 +1,5 @@
 import { readFile, writeFile } from "node:fs/promises";
+import { createHash } from "node:crypto";
 import { resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { generateHomeData } from "./generate-home-data.mjs";
@@ -31,6 +32,27 @@ function sanitizeForPublic(markdown, isReport) {
   return result;
 }
 
+async function versionHomepageAssets() {
+  const indexPath = resolve(project, "index.html");
+  let html = await readFile(indexPath, "utf8");
+
+  for (const asset of ["styles.css", "site-data.js", "app.js"]) {
+    const contents = await readFile(resolve(project, asset));
+    const version = createHash("sha256")
+      .update(contents)
+      .digest("hex")
+      .slice(0, 12);
+    const escapedAsset = asset.replaceAll(".", "\\.");
+    const reference = new RegExp(
+      `((?:href|src)="\\./${escapedAsset})(?:\\?v=[^"]*)?(")`,
+      "g",
+    );
+    html = html.replace(reference, `$1?v=${version}$2`);
+  }
+
+  await writeFile(indexPath, html, "utf8");
+}
+
 const report = sanitizeForPublic(await readFile(resolve(reportSource), "utf8"), true);
 const archive = sanitizeForPublic(
   await readFile(resolve(archiveSource), "utf8"),
@@ -41,5 +63,8 @@ await writeFile(resolve(project, "report.md"), report, "utf8");
 await writeFile(resolve(project, "archive.md"), archive, "utf8");
 await generateHomeData(project);
 await renderReportPages(project);
+await versionHomepageAssets();
 
-console.log("Synced sanitized Markdown report, archive, and homepage data");
+console.log(
+  "Synced sanitized Markdown report, archive, homepage data, and cache versions",
+);
