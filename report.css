@@ -34,7 +34,7 @@ a {
   align-items: center;
   justify-content: space-between;
   gap: 24px;
-  min-height: 56px;
+  min-height: 72px;
   padding: 0 32px;
   border-bottom: 1px solid #d8dee8;
   background: rgba(255, 255, 255, 0.96);
@@ -48,6 +48,23 @@ a {
   text-decoration: none;
 }
 
+.report-top .report-brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #111827;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+
+.report-brand img {
+  width: 34px;
+  height: 34px;
+  object-fit: contain;
+}
+
 .report-top nav {
   display: flex;
   gap: 20px;
@@ -56,6 +73,17 @@ a {
 .report-top nav a {
   color: #475467;
   font-weight: 500;
+}
+
+.report-top nav .directory-link {
+  min-height: 34px;
+  padding: 0 12px;
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid #d8dee8;
+  border-radius: 999px;
+  color: #111827;
+  font-weight: 650;
 }
 
 .markdown-body {
@@ -199,3 +227,4 @@ th:first-child {
     color: inherit;
   }
 }
+
