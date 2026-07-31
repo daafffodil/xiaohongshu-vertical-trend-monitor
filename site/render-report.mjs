@@ -222,8 +222,12 @@ function pageTemplate({ title, description, body, sourceFile, alternatePage }) {
 </head>
 <body>
   <header class="report-top">
-    <a href="./">小红书垂直趋势监控</a>
+    <a class="report-brand" href="./">
+      <img src="https://daafffodil.github.io/dangdang-textile-daily/brand-mark.png" alt="">
+      <span>小红书垂直趋势监控</span>
+    </a>
     <nav aria-label="报告导航">
+      <a class="directory-link" href="https://daafffodil.github.io/dangdang-textile-daily/">返回项目目录</a>
       <a href="${alternatePage.href}">${alternatePage.label}</a>
       <a href="./${sourceFile}">Markdown 源文件</a>
     </nav>
@@ -272,3 +276,4 @@ if (invokedPath === fileURLToPath(import.meta.url)) {
   await renderReportPages();
   console.log("Rendered Markdown report pages");
 }
+
