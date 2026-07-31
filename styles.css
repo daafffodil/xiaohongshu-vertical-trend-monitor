@@ -79,7 +79,7 @@ a {
 }
 
 .header-inner {
-  min-height: 76px;
+  min-height: 72px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -87,11 +87,21 @@ a {
 }
 
 .brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
   font-size: 16px;
-  font-weight: 720;
+  font-weight: 700;
+  line-height: 1.2;
   letter-spacing: -0.02em;
   text-decoration: none;
   white-space: nowrap;
+}
+
+.brand img {
+  width: 34px;
+  height: 34px;
+  object-fit: contain;
 }
 
 .primary-nav {
@@ -113,6 +123,20 @@ a {
 .primary-nav a:focus-visible {
   color: var(--ink);
   text-decoration: underline;
+}
+
+.primary-nav .directory-link {
+  min-height: 36px;
+  padding: 0 13px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--ink);
+}
+
+.primary-nav .directory-link:hover,
+.primary-nav .directory-link:focus-visible {
+  text-decoration: none;
+  border-color: #aeb5ae;
 }
 
 .current-section {
@@ -524,7 +548,9 @@ a:focus-visible {
   }
 
   .header-inner {
-    min-height: 64px;
+    min-height: 72px;
+    padding: 10px 0;
+    flex-wrap: wrap;
   }
 
   .day-heading {
@@ -553,12 +579,12 @@ a:focus-visible {
   }
 
   .header-inner {
-    min-height: 58px;
+    min-height: 72px;
     gap: 16px;
   }
 
   .brand {
-    font-size: 13px;
+    font-size: 16px;
   }
 
   .primary-nav {
@@ -615,3 +641,4 @@ a:focus-visible {
     transition-duration: 0.01ms !important;
   }
 }
+
