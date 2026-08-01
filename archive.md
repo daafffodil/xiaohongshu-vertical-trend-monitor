@@ -4,10 +4,88 @@
 
 ## 目录
 
+- [2026-08-01](#2026-08-01)
 - [2026-07-31](#2026-07-31)
 - [2026-07-30](#2026-07-30)
 - [2026-07-29](#2026-07-29)
 - [2026-07-28](#2026-07-28)
+
+---
+
+## 2026-08-01
+
+- 定稿采样：2026-08-01 09:52—09:58（Asia/Shanghai；09:00自动采样失败后的首次成功人工补采）
+- 观察窗口：2026-07-31 09:52—2026-08-01 09:52
+- 样本口径：已登录会话只读抽样；“1天前”按小于24小时处理；搜索卡片单一数字按可见点赞记录
+
+### 当日结论
+
+1. **今天最快的新信号是“停止买入”。** “穷人请停止购买，开始断舍离”发布35分钟达到55赞、16藏、3评，评论已经出现阶层反论点。
+2. **日期清单带来强收藏。** “假如你从8月1日开始极简”获得167赞、177藏、5评，说明用户更愿意保存可执行计划。
+3. **旧衣内容的有效入口是具体改造和关系对象。** “旧衣爆改兔兔”获得71赞、21藏、21评，评论集中追问工具、版型和舍不得的衣物如何再利用。
+4. **女性主体性仍在扩散，但新帖以解释和外刊摘录为主。** 周级主要增量仍来自成熟帖子。
+5. **自有账号已从外部榜单移出。** 登录搜索会把“旧衣服回收铛铛一下”内容排在前列，不能当作外部热度。
+
+### 当日选题方向
+
+| 优先级 | 选题 | 当日依据 | 建议的解决路径 |
+|---|---|---|---|
+| A | **停止买入才是真断舍离** | 35分钟55赞、16藏、3评 | 从物品入口写到处置成本，不写清空口号 |
+| A | **八月先停掉物品入口** | 167赞、177藏；收藏高于点赞 | 做7天可执行实验，降低行动门槛 |
+| A | **旧衣改造先找一个收件人** | 71赞、21藏、21评；评论追问做法 | 以“为谁留下”决定改造对象与投入 |
+| B | **断舍离也有阶层差异** | 评论出现“只有富人能断舍离” | 讨论替换成本、居住空间与处置渠道 |
+
+### 内容信号榜
+
+| 排名 | 主题簇 | 内容 | 作者 | 发布时间 | 采样时可见互动 | 判断 |
+|---:|---|---|---|---|---:|---|
+| 1 | 断舍离 × 停止买入 | [穷人请停止购买，开始断舍离](https://www.xiaohongshu.com/search_result?keyword=穷人请停止购买，开始断舍离&source=web_search_result_notes&type=51) | 27家 | 35分钟前 | 55赞、16藏、3评 | 当轮速度最高；评论出现反论点 |
+| 2 | 极简 × 21天计划 | [假如你从8月1日开始极简](https://www.xiaohongshu.com/search_result?keyword=假如你从8月1日开始极简&source=web_search_result_notes&type=51) | 简单生活的小馒头 | 昨天08:27 | 167赞、177藏、5评 | 收藏高于点赞；执行需求强 |
+| 3 | 旧衣改造 × 关系礼物 | [旧衣爆改兔兔送给朋友的独家记忆](https://www.xiaohongshu.com/search_result?keyword=旧衣爆改兔兔送给朋友的独家记忆&source=web_search_result_notes&type=51) | 水母桃 | 昨天19:30 | 71赞、21藏、21评 | 评论密度高；旧衣最强新信号 |
+| 4 | 断舍离 × 彩妆清理 | [130s沉浸式彩妆断舍离丢掉旧的迎接新的](https://www.xiaohongshu.com/search_result?keyword=130s沉浸式彩妆断舍离丢掉旧的迎接新的&source=web_search_result_notes&type=51) | 娜娜快点收！ | 昨天18:12 | 128赞 | 场景具体；藏评待补 |
+| 5 | 女性成长 × 比较焦虑 | [女性力量外刊不要害怕身边人会比你幸福](https://www.xiaohongshu.com/search_result?keyword=女性力量外刊不要害怕身边人会比你幸福&source=web_search_result_notes&type=51) | 女性力量外刊 | 昨天20:00 | 79赞、44藏、1评 | 收藏明显；引用来源需谨慎 |
+| 6 | 极简 × 不囤货 | [极简用完再买不囤货家很干净](https://www.xiaohongshu.com/search_result?keyword=极简用完再买不囤货家很干净&source=web_search_result_notes&type=51) | 二人一狗的极简生活 | 昨天10:19 | 78赞 | 入口管理再次复现 |
+| 7 | 断舍离 × 秩序清单 | [howto养出优秀前额叶30天秩序整理清单](https://www.xiaohongshu.com/search_result?keyword=howto养出优秀前额叶30天秩序整理清单&source=web_search_result_notes&type=51) | 周而有序JOR | 昨天22:27 | 66赞 | 清单包装；科学表述待核验 |
+| 8 | 女性主体性 × 过度分享 | [女性外刊过度分享就会自我消解](https://www.xiaohongshu.com/search_result?keyword=女性外刊过度分享就会自我消解&source=web_search_result_notes&type=51) | 女性成长外刊 | 1天前 | 75赞 | 解释型内容延续 |
+| 9 | 女性主体性 × 概念解释 | [为什么主体性会让人像开挂](https://www.xiaohongshu.com/search_result?keyword=为什么主体性会让人像开挂&source=web_search_result_notes&type=51) | InkSlinger | 1天前 | 30赞 | 概念通俗化 |
+| 10 | 女性主体性 × 自我理解 | [想了很久主体性到底是啥](https://www.xiaohongshu.com/search_result?keyword=想了很久主体性到底是啥&source=web_search_result_notes&type=51) | 鲁恩呀 | 3小时前 | 7赞 | 新鲜度高，继续观察 |
+
+### 待复核信号
+
+本轮前三条重点信号均已进入详情页复核。只显示点赞的第4、6、7、8条保留原链接和数据，下轮优先补齐藏评，不删除。
+
+### 需求／交易／品牌信号
+
+| 类型 | 内容 | 作者 | 发布时间 | 可见互动 | 处理 |
+|---|---|---|---|---:|---|
+| 自有内容 | [断舍离最难的是承认它不值钱](https://www.xiaohongshu.com/search_result?keyword=断舍离最难的是承认它不值钱&source=web_search_result_notes&type=51) | 旧衣服回收铛铛一下 | 昨天13:18 | 6赞 | 单列，不进入外部热榜 |
+| 服务型内容 | [旧衣回收怎么选先看这4个关键点](https://www.xiaohongshu.com/search_result?keyword=旧衣回收怎么选先看这4个关键点&source=web_search_result_notes&type=51) | 90后全家一起做回收 | 1天前 | 点赞未显示数值 | 需求存在，热度弱 |
+| 活动／需求 | [爱心衣物捐赠招募说明](https://www.xiaohongshu.com/search_result?keyword=爱心衣物捐赠招募说明&source=web_search_result_notes&type=51) | Miraitowa | 昨天14:46 | 4赞 | 主体资质待核验 |
+| 求助型 | [旧衣别扔山里孩子们需要](https://www.xiaohongshu.com/search_result?keyword=旧衣别扔山里孩子们需要&source=web_search_result_notes&type=51) | 小静 | 昨天22:14 | 6赞 | 捐赠真实性待核验 |
+
+### 同帖互动增量
+
+| 内容 | 上一可用样本 | 本轮样本 | 可确认变化 | 说明 |
+|---|---:|---:|---:|---|
+| [极简主义大神在此](https://www.xiaohongshu.com/search_result?keyword=极简主义大神在此&source=web_search_result_notes&type=51) | 3337赞 | 3844赞 | **+507赞** | 精确可比 |
+| [说一说极简后不会再买的东西](https://www.xiaohongshu.com/search_result?keyword=说一说极简后不会再买的东西&source=web_search_result_notes&type=51) | 7683赞 | 7994赞 | **+311赞** | 精确可比 |
+| [极简八平米](https://www.xiaohongshu.com/search_result?keyword=极简八平米&source=web_search_result_notes&type=51) | 2906赞 | 3087赞 | **+181赞** | 精确可比 |
+| [主体性一下就回来了](https://www.xiaohongshu.com/search_result?keyword=主体性一下就回来了&source=web_search_result_notes&type=51) | 约5.3万赞 | 约5.5万赞 | **约+2000赞** | 万位显示，只作近似 |
+| [天呐好犀利的人生发言](https://www.xiaohongshu.com/search_result?keyword=天呐好犀利的人生发言&source=web_search_result_notes&type=51) | 约2.9万赞 | 约3万赞 | **约+1000赞** | 万位显示，只作近似 |
+| [极简人租房考量](https://www.xiaohongshu.com/search_result?keyword=极简人租房考量&source=web_search_result_notes&type=51) | 3206赞 | 3205赞 | 不计算负增量 | 公开显示波动 |
+
+### 排除项
+
+- 排除“布达佩斯超低价出物”“5 ringgit 系列”“花知晓闲置断舍离”等纯交易卡片。
+- 排除命理、泛关系警示和只在词面命中的内容。
+- 自有账号内容不进入外部内容热榜，避免登录个性化带来的自我强化。
+
+### 数据缺口
+
+- 部分搜索卡片只显示点赞，收藏和评论等待下一轮详情页补齐。
+- 万位点赞为四舍五入显示，增量只能记为约数。
+- 搜索结果受到账号历史影响，不代表小红书全站完整排名。
+- 09:00自动采样因登录读取超时失败，本次首次成功人工补采按规则补为正式版。
 
 ---
 
