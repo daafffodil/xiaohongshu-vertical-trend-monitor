@@ -1,6 +1,6 @@
 window.TREND_DATA = {
-  "updated": "2026-08-01",
-  "updatedLabel": "8月1日",
+  "updated": "2026-08-02",
+  "updatedLabel": "8月2日",
   "filters": [
     {
       "id": "all",
@@ -37,6 +37,2388 @@ window.TREND_DATA = {
         "all": [
           {
             "kind": "content",
+            "title": "天呐 好强的主体性",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A4%A9%E5%91%90+%E5%A5%BD%E5%BC%BA%E7%9A%84%E4%B8%BB%E4%BD%93%E6%80%A7&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "Sansan_CX",
+            "date": "8月2日",
+            "metrics": "3612赞、20评",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "高位新帖；评论产生退出与创造的反论点",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 0,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "女性力量外刊丨不要害怕身边人会比你幸福",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A5%B3%E6%80%A7%E5%8A%9B%E9%87%8F%E5%A4%96%E5%88%8A%E4%B8%A8%E4%B8%8D%E8%A6%81%E5%AE%B3%E6%80%95%E8%BA%AB%E8%BE%B9%E4%BA%BA%E4%BC%9A%E6%AF%94%E4%BD%A0%E5%B9%B8%E7%A6%8F&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "女性力量外刊",
+            "date": "8月1日",
+            "metrics": "2258赞、15评",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "同帖精确新增2179赞、14评",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content",
+              "increment"
+            ],
+            "sourceOrder": 1,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "tidywithme｜年中断舍离，请来抄作业",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=tidywithme%EF%BD%9C%E5%B9%B4%E4%B8%AD%E6%96%AD%E8%88%8D%E7%A6%BB%EF%BC%8C%E8%AF%B7%E6%9D%A5%E6%8A%84%E4%BD%9C%E4%B8%9A&source=web_search_result_notes&type=51",
+            "topic": "断舍离",
+            "tags": [
+              "declutter"
+            ],
+            "type": "",
+            "author": "鲨鲨鱼子酱",
+            "date": "8月2日",
+            "metrics": "108赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "工具型标题；步骤需求明确",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 2,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "7月断舍离｜无用的东西大胆扔，留着也没用",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=7%E6%9C%88%E6%96%AD%E8%88%8D%E7%A6%BB%EF%BD%9C%E6%97%A0%E7%94%A8%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%A4%A7%E8%83%86%E6%89%94%EF%BC%8C%E7%95%99%E7%9D%80%E4%B9%9F%E6%B2%A1%E7%94%A8&source=web_search_result_notes&type=51",
+            "topic": "断舍离",
+            "tags": [
+              "declutter"
+            ],
+            "type": "",
+            "author": "简单生活的饼饼",
+            "date": "8月2日",
+            "metrics": "64赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "月度复盘结构",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 3,
+            "section": "inspiration"
+          },
+          {
+            "kind": "content",
+            "title": "发疯式断舍离，我扔掉了90%的垃圾物品",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%8F%91%E7%96%AF%E5%BC%8F%E6%96%AD%E8%88%8D%E7%A6%BB%EF%BC%8C%E6%88%91%E6%89%94%E6%8E%89%E4%BA%8690%25%E7%9A%84%E5%9E%83%E5%9C%BE%E7%89%A9%E5%93%81&source=web_search_result_notes&type=51",
+            "topic": "断舍离",
+            "tags": [
+              "declutter"
+            ],
+            "type": "",
+            "author": "苏木的精简生活",
+            "date": "8月2日",
+            "metrics": "21赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "强钩子，仍处早期",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 4,
+            "section": "inspiration"
+          },
+          {
+            "kind": "content",
+            "title": "ADHD旧衣收纳（在家逛街版）",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=ADHD%E6%97%A7%E8%A1%A3%E6%94%B6%E7%BA%B3%EF%BC%88%E5%9C%A8%E5%AE%B6%E9%80%9B%E8%A1%97%E7%89%88%EF%BC%89&source=web_search_result_notes&type=51",
+            "topic": "旧衣",
+            "tags": [
+              "old-clothes"
+            ],
+            "type": "",
+            "author": "Apolune",
+            "date": "8月2日",
+            "metrics": "15赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "具体人群与使用场景",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 5,
+            "section": "inspiration"
+          },
+          {
+            "kind": "content",
+            "title": "外刊精读｜对任何女性的终极赞美",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A4%96%E5%88%8A%E7%B2%BE%E8%AF%BB%EF%BD%9C%E5%AF%B9%E4%BB%BB%E4%BD%95%E5%A5%B3%E6%80%A7%E7%9A%84%E7%BB%88%E6%9E%81%E8%B5%9E%E7%BE%8E&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "精选外刊",
+            "date": "8月2日",
+            "metrics": "15赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "解释型；来源和版权需谨慎",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 6,
+            "section": "inspiration"
+          },
+          {
+            "kind": "content",
+            "title": "每周断舍离第六周",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%AF%8F%E5%91%A8%E6%96%AD%E8%88%8D%E7%A6%BB%E7%AC%AC%E5%85%AD%E5%91%A8&source=web_search_result_notes&type=51",
+            "topic": "断舍离",
+            "tags": [
+              "declutter"
+            ],
+            "type": "",
+            "author": "小李的生活记录",
+            "date": "8月2日",
+            "metrics": "14赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "连载结构，互动一般",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 7,
+            "section": "inspiration"
+          },
+          {
+            "kind": "content",
+            "title": "又是一次整理断舍离",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%8F%88%E6%98%AF%E4%B8%80%E6%AC%A1%E6%95%B4%E7%90%86%E6%96%AD%E8%88%8D%E7%A6%BB&source=web_search_result_notes&type=51",
+            "topic": "断舍离",
+            "tags": [
+              "declutter"
+            ],
+            "type": "",
+            "author": "暖暖阳光🍒",
+            "date": "8月2日",
+            "metrics": "8赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "速度代理约25赞／小时，继续观察",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 8,
+            "section": "inspiration"
+          },
+          {
+            "kind": "content",
+            "title": "瑞虹旧衣巧搭・循环新生环保时装秀招募",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E7%91%9E%E8%99%B9%E6%97%A7%E8%A1%A3%E5%B7%A7%E6%90%AD%E3%83%BB%E5%BE%AA%E7%8E%AF%E6%96%B0%E7%94%9F%E7%8E%AF%E4%BF%9D%E6%97%B6%E8%A3%85%E7%A7%80%E6%8B%9B%E5%8B%9F&source=web_search_result_notes&type=51",
+            "topic": "旧衣",
+            "tags": [
+              "old-clothes"
+            ],
+            "type": "",
+            "author": "瑞虹友邻社",
+            "date": "8月2日",
+            "metrics": "5赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "活动型；内容扩散弱",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 9,
+            "section": "inspiration"
+          },
+          {
+            "kind": "needs",
+            "title": "断舍离17份美衣快来一起分担",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%96%AD%E8%88%8D%E7%A6%BB17%E4%BB%BD%E7%BE%8E%E8%A1%A3%E5%BF%AB%E6%9D%A5%E4%B8%80%E8%B5%B7%E5%88%86%E6%8B%85&source=web_search_result_notes&type=51",
+            "topic": "断舍离",
+            "tags": [
+              "declutter"
+            ],
+            "type": "交易型",
+            "author": "想吃好多顿火锅",
+            "date": "8月2日",
+            "metrics": "187赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "needs"
+            ],
+            "sourceOrder": 10,
+            "section": "inspiration"
+          },
+          {
+            "kind": "needs",
+            "title": "旧衣处理的最好方法 鹿岛换包",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%97%A7%E8%A1%A3%E5%A4%84%E7%90%86%E7%9A%84%E6%9C%80%E5%A5%BD%E6%96%B9%E6%B3%95+%E9%B9%BF%E5%B2%9B%E6%8D%A2%E5%8C%85&source=web_search_result_notes&type=51",
+            "topic": "旧衣",
+            "tags": [
+              "old-clothes"
+            ],
+            "type": "服务需求",
+            "author": "赛博土豆儿",
+            "date": "7月27日",
+            "metrics": "472赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "needs"
+            ],
+            "sourceOrder": 11,
+            "section": "inspiration"
+          },
+          {
+            "kind": "needs",
+            "title": "断舍离最难的是承认它不值钱",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%96%AD%E8%88%8D%E7%A6%BB%E6%9C%80%E9%9A%BE%E7%9A%84%E6%98%AF%E6%89%BF%E8%AE%A4%E5%AE%83%E4%B8%8D%E5%80%BC%E9%92%B1&source=web_search_result_notes&type=51",
+            "topic": "断舍离",
+            "tags": [
+              "declutter"
+            ],
+            "type": "自有内容",
+            "author": "旧衣服回收铛铛一下",
+            "date": "8月1日",
+            "metrics": "8赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "needs"
+            ],
+            "sourceOrder": 12,
+            "section": "inspiration"
+          },
+          {
+            "kind": "needs",
+            "title": "每一件闲置衣物，都拥有二次新生的机会",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%AF%8F%E4%B8%80%E4%BB%B6%E9%97%B2%E7%BD%AE%E8%A1%A3%E7%89%A9%EF%BC%8C%E9%83%BD%E6%8B%A5%E6%9C%89%E4%BA%8C%E6%AC%A1%E6%96%B0%E7%94%9F%E7%9A%84%E6%9C%BA%E4%BC%9A&source=web_search_result_notes&type=51",
+            "topic": "旧衣",
+            "tags": [
+              "old-clothes"
+            ],
+            "type": "品牌型",
+            "author": "省心收环保",
+            "date": "8月1日",
+            "metrics": "点赞未显示数值",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "needs"
+            ],
+            "sourceOrder": 13,
+            "section": "inspiration"
+          },
+          {
+            "kind": "increment",
+            "title": "好强的主体性",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A5%BD%E5%BC%BA%E7%9A%84%E4%B8%BB%E4%BD%93%E6%80%A7&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "increment"
+            ],
+            "sourceOrder": 14,
+            "section": "inspiration"
+          },
+          {
+            "kind": "increment",
+            "title": "极简主义大神在此",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%A4%A7%E7%A5%9E%E5%9C%A8%E6%AD%A4&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "increment"
+            ],
+            "sourceOrder": 15,
+            "section": "inspiration"
+          },
+          {
+            "kind": "increment",
+            "title": "极简八平米",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E5%85%AB%E5%B9%B3%E7%B1%B3&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "increment"
+            ],
+            "sourceOrder": 16,
+            "section": "inspiration"
+          },
+          {
+            "kind": "increment",
+            "title": "说一说极简后不会再买的东西",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E8%AF%B4%E4%B8%80%E8%AF%B4%E6%9E%81%E7%AE%80%E5%90%8E%E4%B8%8D%E4%BC%9A%E5%86%8D%E4%B9%B0%E7%9A%84%E4%B8%9C%E8%A5%BF&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "increment"
+            ],
+            "sourceOrder": 17,
+            "section": "inspiration"
+          },
+          {
+            "kind": "increment",
+            "title": "主体性一下就回来了",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%BB%E4%BD%93%E6%80%A7%E4%B8%80%E4%B8%8B%E5%B0%B1%E5%9B%9E%E6%9D%A5%E4%BA%86&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": "./assets/agency.webp",
+            "sourceKinds": [
+              "increment"
+            ],
+            "sourceOrder": 18,
+            "section": "inspiration"
+          },
+          {
+            "kind": "conclusion",
+            "title": "女性主体性出现两条明确高位新信号",
+            "href": null,
+            "topic": "结论",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "8月2日",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "detail": "天呐 好强的主体性 昨天发布后达到3612赞、20评；不要害怕身边人会比你幸福 从上一轮79赞升至2258赞，评论从1条增至15条。",
+            "confidence": "",
+            "image": null,
+            "section": "conclusions"
+          },
+          {
+            "kind": "conclusion",
+            "title": "评论区正在修正“主体性等于赢得竞争”的单一路径",
+            "href": null,
+            "topic": "结论",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "8月2日",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "detail": "高赞评论把“留在桌上”改写为“自己支一张桌子”，另有评论提出离开不合适的环境也是选择，说明用户需要的不是强者口号，而是退出、创造和留下的多种路径。",
+            "confidence": "",
+            "image": null,
+            "section": "conclusions"
+          },
+          {
+            "kind": "conclusion",
+            "title": "断舍离回到整理作业与极端数量标题",
+            "href": null,
+            "topic": "结论",
+            "tags": [
+              "declutter"
+            ],
+            "type": "",
+            "author": "",
+            "date": "8月2日",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "detail": "“年中断舍离请来抄作业”108赞，“扔掉90%”21赞；工具感和强数字仍有效，但暂未出现昨天“停止买入”那样的价值争议。",
+            "confidence": "",
+            "image": null,
+            "section": "conclusions"
+          },
+          {
+            "kind": "conclusion",
+            "title": "旧衣的新鲜内容仍弱",
+            "href": null,
+            "topic": "结论",
+            "tags": [
+              "old-clothes"
+            ],
+            "type": "",
+            "author": "",
+            "date": "8月2日",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "detail": "24小时内有效信号主要是环保时装秀招募、ADHD旧衣收纳和品牌回收叙事，未出现跨作者扩散的内容爆点。",
+            "confidence": "",
+            "image": null,
+            "section": "conclusions"
+          },
+          {
+            "kind": "conclusion",
+            "title": "极简常青帖继续稳定增长",
+            "href": null,
+            "topic": "结论",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "8月2日",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "detail": "“极简主义大神”新增227赞，“极简八平米”新增188赞，“极简后不会再买”新增139赞；人物、空间和不买清单仍是三条稳定结构。",
+            "confidence": "",
+            "image": null,
+            "section": "conclusions"
+          },
+          {
+            "kind": "topic",
+            "title": "主体性也包括离开",
+            "href": null,
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "比较留下、退出和另起规则三种路径",
+            "priority": "A",
+            "evidence": "3612赞帖产生退出与创造规则的评论分歧",
+            "confidence": "",
+            "image": null,
+            "section": "topics"
+          },
+          {
+            "kind": "topic",
+            "title": "别用他人的进度量自己",
+            "href": null,
+            "topic": "观察",
+            "tags": [
+              "other"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "结合社会比较研究，不复述外刊原文",
+            "priority": "A",
+            "evidence": "同帖新增2179赞、14评",
+            "confidence": "",
+            "image": null,
+            "section": "topics"
+          },
+          {
+            "kind": "topic",
+            "title": "断舍离作业怎么抄",
+            "href": null,
+            "topic": "断舍离",
+            "tags": [
+              "declutter"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "拆成入口、判断、去向和截止时间",
+            "priority": "A",
+            "evidence": "年中整理帖108赞",
+            "confidence": "",
+            "image": null,
+            "section": "topics"
+          },
+          {
+            "kind": "topic",
+            "title": "ADHD怎么收旧衣",
+            "href": null,
+            "topic": "旧衣",
+            "tags": [
+              "old-clothes"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "以看得见、拿得到、不靠记忆为原则",
+            "priority": "B",
+            "evidence": "新帖15赞；人群和场景明确",
+            "confidence": "",
+            "image": null,
+            "section": "topics"
+          }
+        ],
+        "highlights": [
+          {
+            "kind": "content",
+            "title": "天呐 好强的主体性",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A4%A9%E5%91%90+%E5%A5%BD%E5%BC%BA%E7%9A%84%E4%B8%BB%E4%BD%93%E6%80%A7&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "Sansan_CX",
+            "date": "8月2日",
+            "metrics": "3612赞、20评",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "高位新帖；评论产生退出与创造的反论点",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 0,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "女性力量外刊丨不要害怕身边人会比你幸福",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A5%B3%E6%80%A7%E5%8A%9B%E9%87%8F%E5%A4%96%E5%88%8A%E4%B8%A8%E4%B8%8D%E8%A6%81%E5%AE%B3%E6%80%95%E8%BA%AB%E8%BE%B9%E4%BA%BA%E4%BC%9A%E6%AF%94%E4%BD%A0%E5%B9%B8%E7%A6%8F&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "女性力量外刊",
+            "date": "8月1日",
+            "metrics": "2258赞、15评",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "同帖精确新增2179赞、14评",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content",
+              "increment"
+            ],
+            "sourceOrder": 1,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "tidywithme｜年中断舍离，请来抄作业",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=tidywithme%EF%BD%9C%E5%B9%B4%E4%B8%AD%E6%96%AD%E8%88%8D%E7%A6%BB%EF%BC%8C%E8%AF%B7%E6%9D%A5%E6%8A%84%E4%BD%9C%E4%B8%9A&source=web_search_result_notes&type=51",
+            "topic": "断舍离",
+            "tags": [
+              "declutter"
+            ],
+            "type": "",
+            "author": "鲨鲨鱼子酱",
+            "date": "8月2日",
+            "metrics": "108赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "工具型标题；步骤需求明确",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 2,
+            "section": "highlights"
+          }
+        ],
+        "inspiration": [
+          {
+            "kind": "content",
+            "title": "7月断舍离｜无用的东西大胆扔，留着也没用",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=7%E6%9C%88%E6%96%AD%E8%88%8D%E7%A6%BB%EF%BD%9C%E6%97%A0%E7%94%A8%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%A4%A7%E8%83%86%E6%89%94%EF%BC%8C%E7%95%99%E7%9D%80%E4%B9%9F%E6%B2%A1%E7%94%A8&source=web_search_result_notes&type=51",
+            "topic": "断舍离",
+            "tags": [
+              "declutter"
+            ],
+            "type": "",
+            "author": "简单生活的饼饼",
+            "date": "8月2日",
+            "metrics": "64赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "月度复盘结构",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 3,
+            "section": "inspiration"
+          },
+          {
+            "kind": "content",
+            "title": "发疯式断舍离，我扔掉了90%的垃圾物品",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%8F%91%E7%96%AF%E5%BC%8F%E6%96%AD%E8%88%8D%E7%A6%BB%EF%BC%8C%E6%88%91%E6%89%94%E6%8E%89%E4%BA%8690%25%E7%9A%84%E5%9E%83%E5%9C%BE%E7%89%A9%E5%93%81&source=web_search_result_notes&type=51",
+            "topic": "断舍离",
+            "tags": [
+              "declutter"
+            ],
+            "type": "",
+            "author": "苏木的精简生活",
+            "date": "8月2日",
+            "metrics": "21赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "强钩子，仍处早期",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 4,
+            "section": "inspiration"
+          },
+          {
+            "kind": "content",
+            "title": "ADHD旧衣收纳（在家逛街版）",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=ADHD%E6%97%A7%E8%A1%A3%E6%94%B6%E7%BA%B3%EF%BC%88%E5%9C%A8%E5%AE%B6%E9%80%9B%E8%A1%97%E7%89%88%EF%BC%89&source=web_search_result_notes&type=51",
+            "topic": "旧衣",
+            "tags": [
+              "old-clothes"
+            ],
+            "type": "",
+            "author": "Apolune",
+            "date": "8月2日",
+            "metrics": "15赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "具体人群与使用场景",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 5,
+            "section": "inspiration"
+          },
+          {
+            "kind": "content",
+            "title": "外刊精读｜对任何女性的终极赞美",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A4%96%E5%88%8A%E7%B2%BE%E8%AF%BB%EF%BD%9C%E5%AF%B9%E4%BB%BB%E4%BD%95%E5%A5%B3%E6%80%A7%E7%9A%84%E7%BB%88%E6%9E%81%E8%B5%9E%E7%BE%8E&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "精选外刊",
+            "date": "8月2日",
+            "metrics": "15赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "解释型；来源和版权需谨慎",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 6,
+            "section": "inspiration"
+          },
+          {
+            "kind": "content",
+            "title": "每周断舍离第六周",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%AF%8F%E5%91%A8%E6%96%AD%E8%88%8D%E7%A6%BB%E7%AC%AC%E5%85%AD%E5%91%A8&source=web_search_result_notes&type=51",
+            "topic": "断舍离",
+            "tags": [
+              "declutter"
+            ],
+            "type": "",
+            "author": "小李的生活记录",
+            "date": "8月2日",
+            "metrics": "14赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "连载结构，互动一般",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 7,
+            "section": "inspiration"
+          },
+          {
+            "kind": "content",
+            "title": "又是一次整理断舍离",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%8F%88%E6%98%AF%E4%B8%80%E6%AC%A1%E6%95%B4%E7%90%86%E6%96%AD%E8%88%8D%E7%A6%BB&source=web_search_result_notes&type=51",
+            "topic": "断舍离",
+            "tags": [
+              "declutter"
+            ],
+            "type": "",
+            "author": "暖暖阳光🍒",
+            "date": "8月2日",
+            "metrics": "8赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "速度代理约25赞／小时，继续观察",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 8,
+            "section": "inspiration"
+          },
+          {
+            "kind": "content",
+            "title": "瑞虹旧衣巧搭・循环新生环保时装秀招募",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E7%91%9E%E8%99%B9%E6%97%A7%E8%A1%A3%E5%B7%A7%E6%90%AD%E3%83%BB%E5%BE%AA%E7%8E%AF%E6%96%B0%E7%94%9F%E7%8E%AF%E4%BF%9D%E6%97%B6%E8%A3%85%E7%A7%80%E6%8B%9B%E5%8B%9F&source=web_search_result_notes&type=51",
+            "topic": "旧衣",
+            "tags": [
+              "old-clothes"
+            ],
+            "type": "",
+            "author": "瑞虹友邻社",
+            "date": "8月2日",
+            "metrics": "5赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "活动型；内容扩散弱",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 9,
+            "section": "inspiration"
+          },
+          {
+            "kind": "needs",
+            "title": "断舍离17份美衣快来一起分担",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%96%AD%E8%88%8D%E7%A6%BB17%E4%BB%BD%E7%BE%8E%E8%A1%A3%E5%BF%AB%E6%9D%A5%E4%B8%80%E8%B5%B7%E5%88%86%E6%8B%85&source=web_search_result_notes&type=51",
+            "topic": "断舍离",
+            "tags": [
+              "declutter"
+            ],
+            "type": "交易型",
+            "author": "想吃好多顿火锅",
+            "date": "8月2日",
+            "metrics": "187赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "needs"
+            ],
+            "sourceOrder": 10,
+            "section": "inspiration"
+          },
+          {
+            "kind": "needs",
+            "title": "旧衣处理的最好方法 鹿岛换包",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%97%A7%E8%A1%A3%E5%A4%84%E7%90%86%E7%9A%84%E6%9C%80%E5%A5%BD%E6%96%B9%E6%B3%95+%E9%B9%BF%E5%B2%9B%E6%8D%A2%E5%8C%85&source=web_search_result_notes&type=51",
+            "topic": "旧衣",
+            "tags": [
+              "old-clothes"
+            ],
+            "type": "服务需求",
+            "author": "赛博土豆儿",
+            "date": "7月27日",
+            "metrics": "472赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "needs"
+            ],
+            "sourceOrder": 11,
+            "section": "inspiration"
+          },
+          {
+            "kind": "needs",
+            "title": "断舍离最难的是承认它不值钱",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%96%AD%E8%88%8D%E7%A6%BB%E6%9C%80%E9%9A%BE%E7%9A%84%E6%98%AF%E6%89%BF%E8%AE%A4%E5%AE%83%E4%B8%8D%E5%80%BC%E9%92%B1&source=web_search_result_notes&type=51",
+            "topic": "断舍离",
+            "tags": [
+              "declutter"
+            ],
+            "type": "自有内容",
+            "author": "旧衣服回收铛铛一下",
+            "date": "8月1日",
+            "metrics": "8赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "needs"
+            ],
+            "sourceOrder": 12,
+            "section": "inspiration"
+          },
+          {
+            "kind": "needs",
+            "title": "每一件闲置衣物，都拥有二次新生的机会",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%AF%8F%E4%B8%80%E4%BB%B6%E9%97%B2%E7%BD%AE%E8%A1%A3%E7%89%A9%EF%BC%8C%E9%83%BD%E6%8B%A5%E6%9C%89%E4%BA%8C%E6%AC%A1%E6%96%B0%E7%94%9F%E7%9A%84%E6%9C%BA%E4%BC%9A&source=web_search_result_notes&type=51",
+            "topic": "旧衣",
+            "tags": [
+              "old-clothes"
+            ],
+            "type": "品牌型",
+            "author": "省心收环保",
+            "date": "8月1日",
+            "metrics": "点赞未显示数值",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "needs"
+            ],
+            "sourceOrder": 13,
+            "section": "inspiration"
+          },
+          {
+            "kind": "increment",
+            "title": "好强的主体性",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A5%BD%E5%BC%BA%E7%9A%84%E4%B8%BB%E4%BD%93%E6%80%A7&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "increment"
+            ],
+            "sourceOrder": 14,
+            "section": "inspiration"
+          },
+          {
+            "kind": "increment",
+            "title": "极简主义大神在此",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%A4%A7%E7%A5%9E%E5%9C%A8%E6%AD%A4&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "increment"
+            ],
+            "sourceOrder": 15,
+            "section": "inspiration"
+          },
+          {
+            "kind": "increment",
+            "title": "极简八平米",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E5%85%AB%E5%B9%B3%E7%B1%B3&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "increment"
+            ],
+            "sourceOrder": 16,
+            "section": "inspiration"
+          },
+          {
+            "kind": "increment",
+            "title": "说一说极简后不会再买的东西",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E8%AF%B4%E4%B8%80%E8%AF%B4%E6%9E%81%E7%AE%80%E5%90%8E%E4%B8%8D%E4%BC%9A%E5%86%8D%E4%B9%B0%E7%9A%84%E4%B8%9C%E8%A5%BF&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "increment"
+            ],
+            "sourceOrder": 17,
+            "section": "inspiration"
+          },
+          {
+            "kind": "increment",
+            "title": "主体性一下就回来了",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%BB%E4%BD%93%E6%80%A7%E4%B8%80%E4%B8%8B%E5%B0%B1%E5%9B%9E%E6%9D%A5%E4%BA%86&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": "./assets/agency.webp",
+            "sourceKinds": [
+              "increment"
+            ],
+            "sourceOrder": 18,
+            "section": "inspiration"
+          }
+        ],
+        "conclusions": [
+          {
+            "kind": "conclusion",
+            "title": "女性主体性出现两条明确高位新信号",
+            "href": null,
+            "topic": "结论",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "8月2日",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "detail": "天呐 好强的主体性 昨天发布后达到3612赞、20评；不要害怕身边人会比你幸福 从上一轮79赞升至2258赞，评论从1条增至15条。",
+            "confidence": "",
+            "image": null,
+            "section": "conclusions"
+          },
+          {
+            "kind": "conclusion",
+            "title": "评论区正在修正“主体性等于赢得竞争”的单一路径",
+            "href": null,
+            "topic": "结论",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "8月2日",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "detail": "高赞评论把“留在桌上”改写为“自己支一张桌子”，另有评论提出离开不合适的环境也是选择，说明用户需要的不是强者口号，而是退出、创造和留下的多种路径。",
+            "confidence": "",
+            "image": null,
+            "section": "conclusions"
+          },
+          {
+            "kind": "conclusion",
+            "title": "断舍离回到整理作业与极端数量标题",
+            "href": null,
+            "topic": "结论",
+            "tags": [
+              "declutter"
+            ],
+            "type": "",
+            "author": "",
+            "date": "8月2日",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "detail": "“年中断舍离请来抄作业”108赞，“扔掉90%”21赞；工具感和强数字仍有效，但暂未出现昨天“停止买入”那样的价值争议。",
+            "confidence": "",
+            "image": null,
+            "section": "conclusions"
+          },
+          {
+            "kind": "conclusion",
+            "title": "旧衣的新鲜内容仍弱",
+            "href": null,
+            "topic": "结论",
+            "tags": [
+              "old-clothes"
+            ],
+            "type": "",
+            "author": "",
+            "date": "8月2日",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "detail": "24小时内有效信号主要是环保时装秀招募、ADHD旧衣收纳和品牌回收叙事，未出现跨作者扩散的内容爆点。",
+            "confidence": "",
+            "image": null,
+            "section": "conclusions"
+          },
+          {
+            "kind": "conclusion",
+            "title": "极简常青帖继续稳定增长",
+            "href": null,
+            "topic": "结论",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "8月2日",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "detail": "“极简主义大神”新增227赞，“极简八平米”新增188赞，“极简后不会再买”新增139赞；人物、空间和不买清单仍是三条稳定结构。",
+            "confidence": "",
+            "image": null,
+            "section": "conclusions"
+          }
+        ],
+        "topics": [
+          {
+            "kind": "topic",
+            "title": "主体性也包括离开",
+            "href": null,
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "比较留下、退出和另起规则三种路径",
+            "priority": "A",
+            "evidence": "3612赞帖产生退出与创造规则的评论分歧",
+            "confidence": "",
+            "image": null,
+            "section": "topics"
+          },
+          {
+            "kind": "topic",
+            "title": "别用他人的进度量自己",
+            "href": null,
+            "topic": "观察",
+            "tags": [
+              "other"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "结合社会比较研究，不复述外刊原文",
+            "priority": "A",
+            "evidence": "同帖新增2179赞、14评",
+            "confidence": "",
+            "image": null,
+            "section": "topics"
+          },
+          {
+            "kind": "topic",
+            "title": "断舍离作业怎么抄",
+            "href": null,
+            "topic": "断舍离",
+            "tags": [
+              "declutter"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "拆成入口、判断、去向和截止时间",
+            "priority": "A",
+            "evidence": "年中整理帖108赞",
+            "confidence": "",
+            "image": null,
+            "section": "topics"
+          },
+          {
+            "kind": "topic",
+            "title": "ADHD怎么收旧衣",
+            "href": null,
+            "topic": "旧衣",
+            "tags": [
+              "old-clothes"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "以看得见、拿得到、不靠记忆为原则",
+            "priority": "B",
+            "evidence": "新帖15赞；人群和场景明确",
+            "confidence": "",
+            "image": null,
+            "section": "topics"
+          }
+        ]
+      }
+    },
+    "week": {
+      "label": "本周",
+      "groups": {
+        "all": [
+          {
+            "kind": "content",
+            "title": "主体性一下就回来了",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%BB%E4%BD%93%E6%80%A7%E4%B8%80%E4%B8%8B%E5%B0%B1%E5%9B%9E%E6%9D%A5%E4%BA%86&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "约5.6万赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": "./assets/agency.webp",
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 0,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "好强的主体性",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A5%BD%E5%BC%BA%E7%9A%84%E4%B8%BB%E4%BD%93%E6%80%A7&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "9868赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 1,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "说一说极简后不会再买的东西",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E8%AF%B4%E4%B8%80%E8%AF%B4%E6%9E%81%E7%AE%80%E5%90%8E%E4%B8%8D%E4%BC%9A%E5%86%8D%E4%B9%B0%E7%9A%84%E4%B8%9C%E8%A5%BF&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "8133赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 2,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "极简主义大神在此",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%A4%A7%E7%A5%9E%E5%9C%A8%E6%AD%A4&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "4071赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 3,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "天呐 好强的主体性",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A4%A9%E5%91%90+%E5%A5%BD%E5%BC%BA%E7%9A%84%E4%B8%BB%E4%BD%93%E6%80%A7&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "3612赞、20评",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 4,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "极简八平米",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E5%85%AB%E5%B9%B3%E7%B1%B3&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "3275赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 5,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "女性力量外刊丨不要害怕身边人会比你幸福",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A5%B3%E6%80%A7%E5%8A%9B%E9%87%8F%E5%A4%96%E5%88%8A%E4%B8%A8%E4%B8%8D%E8%A6%81%E5%AE%B3%E6%80%95%E8%BA%AB%E8%BE%B9%E4%BA%BA%E4%BC%9A%E6%AF%94%E4%BD%A0%E5%B9%B8%E7%A6%8F&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "2258赞、15评",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 6,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "tidywithme｜年中断舍离，请来抄作业",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=tidywithme%EF%BD%9C%E5%B9%B4%E4%B8%AD%E6%96%AD%E8%88%8D%E7%A6%BB%EF%BC%8C%E8%AF%B7%E6%9D%A5%E6%8A%84%E4%BD%9C%E4%B8%9A&source=web_search_result_notes&type=51",
+            "topic": "断舍离",
+            "tags": [
+              "declutter"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "108赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 7,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "ADHD旧衣收纳（在家逛街版）",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=ADHD%E6%97%A7%E8%A1%A3%E6%94%B6%E7%BA%B3%EF%BC%88%E5%9C%A8%E5%AE%B6%E9%80%9B%E8%A1%97%E7%89%88%EF%BC%89&source=web_search_result_notes&type=51",
+            "topic": "旧衣",
+            "tags": [
+              "old-clothes"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "15赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 8,
+            "section": "inspiration"
+          },
+          {
+            "kind": "content",
+            "title": "瑞虹旧衣巧搭・循环新生环保时装秀招募",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E7%91%9E%E8%99%B9%E6%97%A7%E8%A1%A3%E5%B7%A7%E6%90%AD%E3%83%BB%E5%BE%AA%E7%8E%AF%E6%96%B0%E7%94%9F%E7%8E%AF%E4%BF%9D%E6%97%B6%E8%A3%85%E7%A7%80%E6%8B%9B%E5%8B%9F&source=web_search_result_notes&type=51",
+            "topic": "旧衣",
+            "tags": [
+              "old-clothes"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "5赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 9,
+            "section": "inspiration"
+          }
+        ],
+        "highlights": [
+          {
+            "kind": "content",
+            "title": "主体性一下就回来了",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%BB%E4%BD%93%E6%80%A7%E4%B8%80%E4%B8%8B%E5%B0%B1%E5%9B%9E%E6%9D%A5%E4%BA%86&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "约5.6万赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": "./assets/agency.webp",
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 0,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "好强的主体性",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A5%BD%E5%BC%BA%E7%9A%84%E4%B8%BB%E4%BD%93%E6%80%A7&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "9868赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 1,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "说一说极简后不会再买的东西",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E8%AF%B4%E4%B8%80%E8%AF%B4%E6%9E%81%E7%AE%80%E5%90%8E%E4%B8%8D%E4%BC%9A%E5%86%8D%E4%B9%B0%E7%9A%84%E4%B8%9C%E8%A5%BF&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "8133赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 2,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "极简主义大神在此",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%A4%A7%E7%A5%9E%E5%9C%A8%E6%AD%A4&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "4071赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 3,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "天呐 好强的主体性",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A4%A9%E5%91%90+%E5%A5%BD%E5%BC%BA%E7%9A%84%E4%B8%BB%E4%BD%93%E6%80%A7&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "3612赞、20评",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 4,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "极简八平米",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E5%85%AB%E5%B9%B3%E7%B1%B3&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "3275赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 5,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "女性力量外刊丨不要害怕身边人会比你幸福",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A5%B3%E6%80%A7%E5%8A%9B%E9%87%8F%E5%A4%96%E5%88%8A%E4%B8%A8%E4%B8%8D%E8%A6%81%E5%AE%B3%E6%80%95%E8%BA%AB%E8%BE%B9%E4%BA%BA%E4%BC%9A%E6%AF%94%E4%BD%A0%E5%B9%B8%E7%A6%8F&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "2258赞、15评",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 6,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "tidywithme｜年中断舍离，请来抄作业",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=tidywithme%EF%BD%9C%E5%B9%B4%E4%B8%AD%E6%96%AD%E8%88%8D%E7%A6%BB%EF%BC%8C%E8%AF%B7%E6%9D%A5%E6%8A%84%E4%BD%9C%E4%B8%9A&source=web_search_result_notes&type=51",
+            "topic": "断舍离",
+            "tags": [
+              "declutter"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "108赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 7,
+            "section": "highlights"
+          }
+        ],
+        "inspiration": [
+          {
+            "kind": "content",
+            "title": "ADHD旧衣收纳（在家逛街版）",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=ADHD%E6%97%A7%E8%A1%A3%E6%94%B6%E7%BA%B3%EF%BC%88%E5%9C%A8%E5%AE%B6%E9%80%9B%E8%A1%97%E7%89%88%EF%BC%89&source=web_search_result_notes&type=51",
+            "topic": "旧衣",
+            "tags": [
+              "old-clothes"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "15赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 8,
+            "section": "inspiration"
+          },
+          {
+            "kind": "content",
+            "title": "瑞虹旧衣巧搭・循环新生环保时装秀招募",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E7%91%9E%E8%99%B9%E6%97%A7%E8%A1%A3%E5%B7%A7%E6%90%AD%E3%83%BB%E5%BE%AA%E7%8E%AF%E6%96%B0%E7%94%9F%E7%8E%AF%E4%BF%9D%E6%97%B6%E8%A3%85%E7%A7%80%E6%8B%9B%E5%8B%9F&source=web_search_result_notes&type=51",
+            "topic": "旧衣",
+            "tags": [
+              "old-clothes"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "5赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 9,
+            "section": "inspiration"
+          }
+        ],
+        "conclusions": [],
+        "topics": []
+      }
+    },
+    "month": {
+      "label": "本月",
+      "groups": {
+        "all": [
+          {
+            "kind": "content",
+            "title": "主体性一下就回来了",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%BB%E4%BD%93%E6%80%A7%E4%B8%80%E4%B8%8B%E5%B0%B1%E5%9B%9E%E6%9D%A5%E4%BA%86&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "约5.6万赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "已形成可复述的公共语言",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": "./assets/agency.webp",
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 0,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "好强的主体性",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A5%BD%E5%BC%BA%E7%9A%84%E4%B8%BB%E4%BD%93%E6%80%A7&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "9868赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "多作者用同一判断包装不同人物与发言",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 1,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "说一说极简后不会再买的东西",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E8%AF%B4%E4%B8%80%E8%AF%B4%E6%9E%81%E7%AE%80%E5%90%8E%E4%B8%8D%E4%BC%9A%E5%86%8D%E4%B9%B0%E7%9A%84%E4%B8%9C%E8%A5%BF&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "8133赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "清单结构持续增长",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 2,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "极简主义大神在此",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%A4%A7%E7%A5%9E%E5%9C%A8%E6%AD%A4&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "4071赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "人物身份降低理解成本",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 3,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "极简八平米",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E5%85%AB%E5%B9%B3%E7%B1%B3&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "3275赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "具体空间约束具有常青价值",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 4,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "极简后，我的10个不买",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E5%90%8E%EF%BC%8C%E6%88%91%E7%9A%8410%E4%B8%AA%E4%B8%8D%E4%B9%B0&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "2425赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "同题复现，证明结构稳定",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 5,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "极简后，我的50个不买",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E5%90%8E%EF%BC%8C%E6%88%91%E7%9A%8450%E4%B8%AA%E4%B8%8D%E4%B9%B0&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "2323赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "数量变化仍可复用",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 6,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "旧衣处理的最好方法 鹿岛换包",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%97%A7%E8%A1%A3%E5%A4%84%E7%90%86%E7%9A%84%E6%9C%80%E5%A5%BD%E6%96%B9%E6%B3%95+%E9%B9%BF%E5%B2%9B%E6%8D%A2%E5%8C%85&source=web_search_result_notes&type=51",
+            "topic": "旧衣",
+            "tags": [
+              "old-clothes"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "472赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "决策问题比泛环保叙事更有传播性",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 7,
+            "section": "highlights"
+          }
+        ],
+        "highlights": [
+          {
+            "kind": "content",
+            "title": "主体性一下就回来了",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%BB%E4%BD%93%E6%80%A7%E4%B8%80%E4%B8%8B%E5%B0%B1%E5%9B%9E%E6%9D%A5%E4%BA%86&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "约5.6万赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "已形成可复述的公共语言",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": "./assets/agency.webp",
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 0,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "好强的主体性",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A5%BD%E5%BC%BA%E7%9A%84%E4%B8%BB%E4%BD%93%E6%80%A7&source=web_search_result_notes&type=51",
+            "topic": "女性成长",
+            "tags": [
+              "women"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "9868赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "多作者用同一判断包装不同人物与发言",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 1,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "说一说极简后不会再买的东西",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E8%AF%B4%E4%B8%80%E8%AF%B4%E6%9E%81%E7%AE%80%E5%90%8E%E4%B8%8D%E4%BC%9A%E5%86%8D%E4%B9%B0%E7%9A%84%E4%B8%9C%E8%A5%BF&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "8133赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "清单结构持续增长",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 2,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "极简主义大神在此",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%A4%A7%E7%A5%9E%E5%9C%A8%E6%AD%A4&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "4071赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "人物身份降低理解成本",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 3,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "极简八平米",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E5%85%AB%E5%B9%B3%E7%B1%B3&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "3275赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "具体空间约束具有常青价值",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 4,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "极简后，我的10个不买",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E5%90%8E%EF%BC%8C%E6%88%91%E7%9A%8410%E4%B8%AA%E4%B8%8D%E4%B9%B0&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "2425赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "同题复现，证明结构稳定",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 5,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "极简后，我的50个不买",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E5%90%8E%EF%BC%8C%E6%88%91%E7%9A%8450%E4%B8%AA%E4%B8%8D%E4%B9%B0&source=web_search_result_notes&type=51",
+            "topic": "极简",
+            "tags": [
+              "minimal"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "2323赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "数量变化仍可复用",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 6,
+            "section": "highlights"
+          },
+          {
+            "kind": "content",
+            "title": "旧衣处理的最好方法 鹿岛换包",
+            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%97%A7%E8%A1%A3%E5%A4%84%E7%90%86%E7%9A%84%E6%9C%80%E5%A5%BD%E6%96%B9%E6%B3%95+%E9%B9%BF%E5%B2%9B%E6%8D%A2%E5%8C%85&source=web_search_result_notes&type=51",
+            "topic": "旧衣",
+            "tags": [
+              "old-clothes"
+            ],
+            "type": "",
+            "author": "",
+            "date": "",
+            "metrics": "472赞",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "决策问题比泛环保叙事更有传播性",
+            "priority": "",
+            "evidence": "",
+            "confidence": "",
+            "image": null,
+            "sourceKinds": [
+              "content"
+            ],
+            "sourceOrder": 7,
+            "section": "highlights"
+          }
+        ],
+        "inspiration": [],
+        "conclusions": [],
+        "topics": []
+      }
+    }
+  },
+  "archive": [
+    {
+      "date": "2026-08-01",
+      "label": "8月1日",
+      "counts": {
+        "all": 29,
+        "highlights": 2,
+        "inspiration": 18,
+        "conclusions": 5,
+        "topics": 4
+      },
+      "groups": {
+        "all": [
+          {
+            "kind": "content",
             "title": "假如你从8月1日开始极简",
             "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%81%87%E5%A6%82%E4%BD%A0%E4%BB%8E8%E6%9C%881%E6%97%A5%E5%BC%80%E5%A7%8B%E6%9E%81%E7%AE%80&source=web_search_result_notes&type=51",
             "topic": "极简",
@@ -50,7 +2432,7 @@ window.TREND_DATA = {
             "change": "",
             "baseline": "",
             "current": "",
-            "insight": "收藏高于点赞；可执行需求强",
+            "insight": "收藏高于点赞；执行需求强",
             "priority": "",
             "evidence": "",
             "confidence": "",
@@ -76,7 +2458,7 @@ window.TREND_DATA = {
             "change": "",
             "baseline": "",
             "current": "",
-            "insight": "场景具体；详情互动待下轮补齐",
+            "insight": "场景具体；藏评待补",
             "priority": "",
             "evidence": "",
             "confidence": "",
@@ -129,7 +2511,7 @@ window.TREND_DATA = {
             "change": "",
             "baseline": "",
             "current": "",
-            "insight": "评论密度高；旧衣主题最强新信号",
+            "insight": "评论密度高；旧衣最强新信号",
             "priority": "",
             "evidence": "",
             "confidence": "",
@@ -181,7 +2563,7 @@ window.TREND_DATA = {
             "change": "",
             "baseline": "",
             "current": "",
-            "insight": "“入口管理”再次复现",
+            "insight": "入口管理再次复现",
             "priority": "",
             "evidence": "",
             "confidence": "",
@@ -207,7 +2589,7 @@ window.TREND_DATA = {
             "change": "",
             "baseline": "",
             "current": "",
-            "insight": "清单化包装，需复核科学表述",
+            "insight": "清单包装；科学表述待核验",
             "priority": "",
             "evidence": "",
             "confidence": "",
@@ -233,7 +2615,7 @@ window.TREND_DATA = {
             "change": "",
             "baseline": "",
             "current": "",
-            "insight": "主体性解释型内容延续",
+            "insight": "解释型内容延续",
             "priority": "",
             "evidence": "",
             "confidence": "",
@@ -259,7 +2641,7 @@ window.TREND_DATA = {
             "change": "",
             "baseline": "",
             "current": "",
-            "insight": "概念通俗化；仍在早期",
+            "insight": "概念通俗化",
             "priority": "",
             "evidence": "",
             "confidence": "",
@@ -559,30 +2941,7 @@ window.TREND_DATA = {
           },
           {
             "kind": "conclusion",
-            "title": "今天最快的新信号不是“扔”，而是“停止买入”",
-            "href": null,
-            "topic": "结论",
-            "tags": [
-              "declutter"
-            ],
-            "type": "",
-            "author": "",
-            "date": "8月1日",
-            "metrics": "",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "detail": "穷人请停止购买，开始断舍离 发布35分钟达到55赞、16藏、3评，评论已经出现“只有富人能断舍离”的反论点，说明消费入口比清理技巧更能引发讨论。",
-            "confidence": "",
-            "image": null,
-            "section": "conclusions"
-          },
-          {
-            "kind": "conclusion",
-            "title": "行动清单的收藏价值高于情绪价值",
+            "title": "今天最快的新信号是“停止买入”",
             "href": null,
             "topic": "结论",
             "tags": [
@@ -598,14 +2957,37 @@ window.TREND_DATA = {
             "insight": "",
             "priority": "",
             "evidence": "",
-            "detail": "假如你从8月1日开始极简 获得167赞、177藏、5评，收藏超过点赞；“日期钩子＋21天分阶段计划”适合被直接保存和执行。",
+            "detail": "“穷人请停止购买，开始断舍离”发布35分钟达到55赞、16藏、3评，评论已经出现阶层反论点。",
             "confidence": "",
             "image": null,
             "section": "conclusions"
           },
           {
             "kind": "conclusion",
-            "title": "旧衣内容的有效突破口仍是具体改造和关系对象",
+            "title": "日期清单带来强收藏",
+            "href": null,
+            "topic": "结论",
+            "tags": [
+              "other"
+            ],
+            "type": "",
+            "author": "",
+            "date": "8月1日",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "detail": "“假如你从8月1日开始极简”获得167赞、177藏、5评，说明用户更愿意保存可执行计划。",
+            "confidence": "",
+            "image": null,
+            "section": "conclusions"
+          },
+          {
+            "kind": "conclusion",
+            "title": "旧衣内容的有效入口是具体改造和关系对象",
             "href": null,
             "topic": "结论",
             "tags": [
@@ -622,14 +3004,14 @@ window.TREND_DATA = {
             "insight": "",
             "priority": "",
             "evidence": "",
-            "detail": "旧衣爆改兔兔送给朋友的独家记忆 获得71赞、21藏、21评，评论密度高于同批旧衣内容，讨论集中在缝纫机、版型和舍不得的衣物如何再利用。",
+            "detail": "“旧衣爆改兔兔”获得71赞、21藏、21评，评论集中追问工具、版型和舍不得的衣物如何再利用。",
             "confidence": "",
             "image": null,
             "section": "conclusions"
           },
           {
             "kind": "conclusion",
-            "title": "女性主体性继续扩散，但新帖多为解释或外刊摘录",
+            "title": "女性主体性仍在扩散，但新帖以解释和外刊摘录为主",
             "href": null,
             "topic": "结论",
             "tags": [
@@ -645,14 +3027,14 @@ window.TREND_DATA = {
             "insight": "",
             "priority": "",
             "evidence": "",
-            "detail": "本周主增量仍来自已成熟帖子；新内容量有延续，尚未出现与王虹相当的新人物事件。",
+            "detail": "周级主要增量仍来自成熟帖子。",
             "confidence": "",
             "image": null,
             "section": "conclusions"
           },
           {
             "kind": "conclusion",
-            "title": "搜索结果存在明显账号个性化",
+            "title": "自有账号已从外部榜单移出",
             "href": null,
             "topic": "结论",
             "tags": [
@@ -668,7 +3050,7 @@ window.TREND_DATA = {
             "insight": "",
             "priority": "",
             "evidence": "",
-            "detail": "自有账号“旧衣服回收铛铛一下”的内容会靠前出现，已从外部热榜移出，单独观察，防止自我强化偏差。",
+            "detail": "登录搜索会把“旧衣服回收铛铛一下”内容排在前列，不能当作外部热度。",
             "confidence": "",
             "image": null,
             "section": "conclusions"
@@ -778,7 +3160,7 @@ window.TREND_DATA = {
             "change": "",
             "baseline": "",
             "current": "",
-            "insight": "收藏高于点赞；可执行需求强",
+            "insight": "收藏高于点赞；执行需求强",
             "priority": "",
             "evidence": "",
             "confidence": "",
@@ -804,7 +3186,7 @@ window.TREND_DATA = {
             "change": "",
             "baseline": "",
             "current": "",
-            "insight": "场景具体；详情互动待下轮补齐",
+            "insight": "场景具体；藏评待补",
             "priority": "",
             "evidence": "",
             "confidence": "",
@@ -859,7 +3241,7 @@ window.TREND_DATA = {
             "change": "",
             "baseline": "",
             "current": "",
-            "insight": "评论密度高；旧衣主题最强新信号",
+            "insight": "评论密度高；旧衣最强新信号",
             "priority": "",
             "evidence": "",
             "confidence": "",
@@ -911,7 +3293,7 @@ window.TREND_DATA = {
             "change": "",
             "baseline": "",
             "current": "",
-            "insight": "“入口管理”再次复现",
+            "insight": "入口管理再次复现",
             "priority": "",
             "evidence": "",
             "confidence": "",
@@ -937,7 +3319,7 @@ window.TREND_DATA = {
             "change": "",
             "baseline": "",
             "current": "",
-            "insight": "清单化包装，需复核科学表述",
+            "insight": "清单包装；科学表述待核验",
             "priority": "",
             "evidence": "",
             "confidence": "",
@@ -963,7 +3345,7 @@ window.TREND_DATA = {
             "change": "",
             "baseline": "",
             "current": "",
-            "insight": "主体性解释型内容延续",
+            "insight": "解释型内容延续",
             "priority": "",
             "evidence": "",
             "confidence": "",
@@ -989,7 +3371,7 @@ window.TREND_DATA = {
             "change": "",
             "baseline": "",
             "current": "",
-            "insight": "概念通俗化；仍在早期",
+            "insight": "概念通俗化",
             "priority": "",
             "evidence": "",
             "confidence": "",
@@ -1291,30 +3673,7 @@ window.TREND_DATA = {
         "conclusions": [
           {
             "kind": "conclusion",
-            "title": "今天最快的新信号不是“扔”，而是“停止买入”",
-            "href": null,
-            "topic": "结论",
-            "tags": [
-              "declutter"
-            ],
-            "type": "",
-            "author": "",
-            "date": "8月1日",
-            "metrics": "",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "detail": "穷人请停止购买，开始断舍离 发布35分钟达到55赞、16藏、3评，评论已经出现“只有富人能断舍离”的反论点，说明消费入口比清理技巧更能引发讨论。",
-            "confidence": "",
-            "image": null,
-            "section": "conclusions"
-          },
-          {
-            "kind": "conclusion",
-            "title": "行动清单的收藏价值高于情绪价值",
+            "title": "今天最快的新信号是“停止买入”",
             "href": null,
             "topic": "结论",
             "tags": [
@@ -1330,14 +3689,37 @@ window.TREND_DATA = {
             "insight": "",
             "priority": "",
             "evidence": "",
-            "detail": "假如你从8月1日开始极简 获得167赞、177藏、5评，收藏超过点赞；“日期钩子＋21天分阶段计划”适合被直接保存和执行。",
+            "detail": "“穷人请停止购买，开始断舍离”发布35分钟达到55赞、16藏、3评，评论已经出现阶层反论点。",
             "confidence": "",
             "image": null,
             "section": "conclusions"
           },
           {
             "kind": "conclusion",
-            "title": "旧衣内容的有效突破口仍是具体改造和关系对象",
+            "title": "日期清单带来强收藏",
+            "href": null,
+            "topic": "结论",
+            "tags": [
+              "other"
+            ],
+            "type": "",
+            "author": "",
+            "date": "8月1日",
+            "metrics": "",
+            "change": "",
+            "baseline": "",
+            "current": "",
+            "insight": "",
+            "priority": "",
+            "evidence": "",
+            "detail": "“假如你从8月1日开始极简”获得167赞、177藏、5评，说明用户更愿意保存可执行计划。",
+            "confidence": "",
+            "image": null,
+            "section": "conclusions"
+          },
+          {
+            "kind": "conclusion",
+            "title": "旧衣内容的有效入口是具体改造和关系对象",
             "href": null,
             "topic": "结论",
             "tags": [
@@ -1354,14 +3736,14 @@ window.TREND_DATA = {
             "insight": "",
             "priority": "",
             "evidence": "",
-            "detail": "旧衣爆改兔兔送给朋友的独家记忆 获得71赞、21藏、21评，评论密度高于同批旧衣内容，讨论集中在缝纫机、版型和舍不得的衣物如何再利用。",
+            "detail": "“旧衣爆改兔兔”获得71赞、21藏、21评，评论集中追问工具、版型和舍不得的衣物如何再利用。",
             "confidence": "",
             "image": null,
             "section": "conclusions"
           },
           {
             "kind": "conclusion",
-            "title": "女性主体性继续扩散，但新帖多为解释或外刊摘录",
+            "title": "女性主体性仍在扩散，但新帖以解释和外刊摘录为主",
             "href": null,
             "topic": "结论",
             "tags": [
@@ -1377,14 +3759,14 @@ window.TREND_DATA = {
             "insight": "",
             "priority": "",
             "evidence": "",
-            "detail": "本周主增量仍来自已成熟帖子；新内容量有延续，尚未出现与王虹相当的新人物事件。",
+            "detail": "周级主要增量仍来自成熟帖子。",
             "confidence": "",
             "image": null,
             "section": "conclusions"
           },
           {
             "kind": "conclusion",
-            "title": "搜索结果存在明显账号个性化",
+            "title": "自有账号已从外部榜单移出",
             "href": null,
             "topic": "结论",
             "tags": [
@@ -1400,7 +3782,7 @@ window.TREND_DATA = {
             "insight": "",
             "priority": "",
             "evidence": "",
-            "detail": "自有账号“旧衣服回收铛铛一下”的内容会靠前出现，已从外部热榜移出，单独观察，防止自我强化偏差。",
+            "detail": "登录搜索会把“旧衣服回收铛铛一下”内容排在前列，不能当作外部热度。",
             "confidence": "",
             "image": null,
             "section": "conclusions"
@@ -1496,971 +3878,19 @@ window.TREND_DATA = {
             "section": "topics"
           }
         ]
-      }
+      },
+      "exclusions": [
+        "排除“布达佩斯超低价出物”“5 ringgit 系列”“花知晓闲置断舍离”等纯交易卡片。",
+        "排除命理、泛关系警示和只在词面命中的内容。",
+        "自有账号内容不进入外部内容热榜，避免登录个性化带来的自我强化。"
+      ],
+      "gaps": [
+        "部分搜索卡片只显示点赞，收藏和评论等待下一轮详情页补齐。",
+        "万位点赞为四舍五入显示，增量只能记为约数。",
+        "搜索结果受到账号历史影响，不代表小红书全站完整排名。",
+        "09:00自动采样因登录读取超时失败，本次首次成功人工补采按规则补为正式版。"
+      ]
     },
-    "week": {
-      "label": "本周",
-      "groups": {
-        "all": [
-          {
-            "kind": "content",
-            "title": "主体性一下就回来了",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%BB%E4%BD%93%E6%80%A7%E4%B8%80%E4%B8%8B%E5%B0%B1%E5%9B%9E%E6%9D%A5%E4%BA%86&source=web_search_result_notes&type=51",
-            "topic": "女性成长",
-            "tags": [
-              "women"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "约5.5万赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": "./assets/agency.webp",
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 0,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "天呐好犀利的人生发言",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A4%A9%E5%91%90%E5%A5%BD%E7%8A%80%E5%88%A9%E7%9A%84%E4%BA%BA%E7%94%9F%E5%8F%91%E8%A8%80&source=web_search_result_notes&type=51",
-            "topic": "女性成长",
-            "tags": [
-              "women"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "约3万赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 1,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "好强的主体性",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A5%BD%E5%BC%BA%E7%9A%84%E4%B8%BB%E4%BD%93%E6%80%A7&source=web_search_result_notes&type=51",
-            "topic": "女性成长",
-            "tags": [
-              "women"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "9409赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 2,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "说一说极简后不会再买的东西",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E8%AF%B4%E4%B8%80%E8%AF%B4%E6%9E%81%E7%AE%80%E5%90%8E%E4%B8%8D%E4%BC%9A%E5%86%8D%E4%B9%B0%E7%9A%84%E4%B8%9C%E8%A5%BF&source=web_search_result_notes&type=51",
-            "topic": "极简",
-            "tags": [
-              "minimal"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "7994赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 3,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "极简主义大神在此",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%A4%A7%E7%A5%9E%E5%9C%A8%E6%AD%A4&source=web_search_result_notes&type=51",
-            "topic": "极简",
-            "tags": [
-              "minimal"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "3844赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 4,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "极简八平米",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E5%85%AB%E5%B9%B3%E7%B1%B3&source=web_search_result_notes&type=51",
-            "topic": "极简",
-            "tags": [
-              "minimal"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "3087赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 5,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "假如你从8月1日开始极简",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%81%87%E5%A6%82%E4%BD%A0%E4%BB%8E8%E6%9C%881%E6%97%A5%E5%BC%80%E5%A7%8B%E6%9E%81%E7%AE%80&source=web_search_result_notes&type=51",
-            "topic": "极简",
-            "tags": [
-              "minimal"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "167赞、177藏、5评",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 6,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "旧衣爆改兔兔送给朋友的独家记忆",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%97%A7%E8%A1%A3%E7%88%86%E6%94%B9%E5%85%94%E5%85%94%E9%80%81%E7%BB%99%E6%9C%8B%E5%8F%8B%E7%9A%84%E7%8B%AC%E5%AE%B6%E8%AE%B0%E5%BF%86&source=web_search_result_notes&type=51",
-            "topic": "旧衣",
-            "tags": [
-              "old-clothes"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "71赞、21藏、21评",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 7,
-            "section": "inspiration"
-          },
-          {
-            "kind": "content",
-            "title": "穷人请停止购买，开始断舍离",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E7%A9%B7%E4%BA%BA%E8%AF%B7%E5%81%9C%E6%AD%A2%E8%B4%AD%E4%B9%B0%EF%BC%8C%E5%BC%80%E5%A7%8B%E6%96%AD%E8%88%8D%E7%A6%BB&source=web_search_result_notes&type=51",
-            "topic": "断舍离",
-            "tags": [
-              "declutter"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "55赞、16藏、3评",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 8,
-            "section": "inspiration"
-          },
-          {
-            "kind": "content",
-            "title": "女性力量外刊不要害怕身边人会比你幸福",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A5%B3%E6%80%A7%E5%8A%9B%E9%87%8F%E5%A4%96%E5%88%8A%E4%B8%8D%E8%A6%81%E5%AE%B3%E6%80%95%E8%BA%AB%E8%BE%B9%E4%BA%BA%E4%BC%9A%E6%AF%94%E4%BD%A0%E5%B9%B8%E7%A6%8F&source=web_search_result_notes&type=51",
-            "topic": "女性成长",
-            "tags": [
-              "women"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "79赞、44藏、1评",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 9,
-            "section": "inspiration"
-          }
-        ],
-        "highlights": [
-          {
-            "kind": "content",
-            "title": "主体性一下就回来了",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%BB%E4%BD%93%E6%80%A7%E4%B8%80%E4%B8%8B%E5%B0%B1%E5%9B%9E%E6%9D%A5%E4%BA%86&source=web_search_result_notes&type=51",
-            "topic": "女性成长",
-            "tags": [
-              "women"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "约5.5万赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": "./assets/agency.webp",
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 0,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "天呐好犀利的人生发言",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A4%A9%E5%91%90%E5%A5%BD%E7%8A%80%E5%88%A9%E7%9A%84%E4%BA%BA%E7%94%9F%E5%8F%91%E8%A8%80&source=web_search_result_notes&type=51",
-            "topic": "女性成长",
-            "tags": [
-              "women"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "约3万赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 1,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "好强的主体性",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A5%BD%E5%BC%BA%E7%9A%84%E4%B8%BB%E4%BD%93%E6%80%A7&source=web_search_result_notes&type=51",
-            "topic": "女性成长",
-            "tags": [
-              "women"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "9409赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 2,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "说一说极简后不会再买的东西",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E8%AF%B4%E4%B8%80%E8%AF%B4%E6%9E%81%E7%AE%80%E5%90%8E%E4%B8%8D%E4%BC%9A%E5%86%8D%E4%B9%B0%E7%9A%84%E4%B8%9C%E8%A5%BF&source=web_search_result_notes&type=51",
-            "topic": "极简",
-            "tags": [
-              "minimal"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "7994赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 3,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "极简主义大神在此",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%A4%A7%E7%A5%9E%E5%9C%A8%E6%AD%A4&source=web_search_result_notes&type=51",
-            "topic": "极简",
-            "tags": [
-              "minimal"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "3844赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 4,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "极简八平米",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E5%85%AB%E5%B9%B3%E7%B1%B3&source=web_search_result_notes&type=51",
-            "topic": "极简",
-            "tags": [
-              "minimal"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "3087赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 5,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "假如你从8月1日开始极简",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%81%87%E5%A6%82%E4%BD%A0%E4%BB%8E8%E6%9C%881%E6%97%A5%E5%BC%80%E5%A7%8B%E6%9E%81%E7%AE%80&source=web_search_result_notes&type=51",
-            "topic": "极简",
-            "tags": [
-              "minimal"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "167赞、177藏、5评",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 6,
-            "section": "highlights"
-          }
-        ],
-        "inspiration": [
-          {
-            "kind": "content",
-            "title": "旧衣爆改兔兔送给朋友的独家记忆",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%97%A7%E8%A1%A3%E7%88%86%E6%94%B9%E5%85%94%E5%85%94%E9%80%81%E7%BB%99%E6%9C%8B%E5%8F%8B%E7%9A%84%E7%8B%AC%E5%AE%B6%E8%AE%B0%E5%BF%86&source=web_search_result_notes&type=51",
-            "topic": "旧衣",
-            "tags": [
-              "old-clothes"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "71赞、21藏、21评",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 7,
-            "section": "inspiration"
-          },
-          {
-            "kind": "content",
-            "title": "穷人请停止购买，开始断舍离",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E7%A9%B7%E4%BA%BA%E8%AF%B7%E5%81%9C%E6%AD%A2%E8%B4%AD%E4%B9%B0%EF%BC%8C%E5%BC%80%E5%A7%8B%E6%96%AD%E8%88%8D%E7%A6%BB&source=web_search_result_notes&type=51",
-            "topic": "断舍离",
-            "tags": [
-              "declutter"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "55赞、16藏、3评",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 8,
-            "section": "inspiration"
-          },
-          {
-            "kind": "content",
-            "title": "女性力量外刊不要害怕身边人会比你幸福",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A5%B3%E6%80%A7%E5%8A%9B%E9%87%8F%E5%A4%96%E5%88%8A%E4%B8%8D%E8%A6%81%E5%AE%B3%E6%80%95%E8%BA%AB%E8%BE%B9%E4%BA%BA%E4%BC%9A%E6%AF%94%E4%BD%A0%E5%B9%B8%E7%A6%8F&source=web_search_result_notes&type=51",
-            "topic": "女性成长",
-            "tags": [
-              "women"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "79赞、44藏、1评",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 9,
-            "section": "inspiration"
-          }
-        ],
-        "conclusions": [],
-        "topics": []
-      }
-    },
-    "month": {
-      "label": "本月",
-      "groups": {
-        "all": [
-          {
-            "kind": "content",
-            "title": "主体性一下就回来了",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%BB%E4%BD%93%E6%80%A7%E4%B8%80%E4%B8%8B%E5%B0%B1%E5%9B%9E%E6%9D%A5%E4%BA%86&source=web_search_result_notes&type=51",
-            "topic": "女性成长",
-            "tags": [
-              "women"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "约5.5万赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "同义表达持续复现，已形成公共语言",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": "./assets/agency.webp",
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 0,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "天呐好犀利的人生发言",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A4%A9%E5%91%90%E5%A5%BD%E7%8A%80%E5%88%A9%E7%9A%84%E4%BA%BA%E7%94%9F%E5%8F%91%E8%A8%80&source=web_search_result_notes&type=51",
-            "topic": "女性成长",
-            "tags": [
-              "women"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "约3万赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "人物发言与主体性绑定",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 1,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "当我意识到我在家是完全自由的",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%BD%93%E6%88%91%E6%84%8F%E8%AF%86%E5%88%B0%E6%88%91%E5%9C%A8%E5%AE%B6%E6%98%AF%E5%AE%8C%E5%85%A8%E8%87%AA%E7%94%B1%E7%9A%84&source=web_search_result_notes&type=51",
-            "topic": "女性成长",
-            "tags": [
-              "women"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "约2万赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "生活场景承载抽象价值",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 2,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "好强的主体性",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A5%BD%E5%BC%BA%E7%9A%84%E4%B8%BB%E4%BD%93%E6%80%A7&source=web_search_result_notes&type=51",
-            "topic": "女性成长",
-            "tags": [
-              "women"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "9409赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "新增高位样本，扩散快",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 3,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "说一说极简后不会再买的东西",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E8%AF%B4%E4%B8%80%E8%AF%B4%E6%9E%81%E7%AE%80%E5%90%8E%E4%B8%8D%E4%BC%9A%E5%86%8D%E4%B9%B0%E7%9A%84%E4%B8%9C%E8%A5%BF&source=web_search_result_notes&type=51",
-            "topic": "极简",
-            "tags": [
-              "minimal"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "7994赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "常青清单结构，仍在增长",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 4,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "极简主义大神在此",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%A4%A7%E7%A5%9E%E5%9C%A8%E6%AD%A4&source=web_search_result_notes&type=51",
-            "topic": "极简",
-            "tags": [
-              "minimal"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "3844赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "人物身份降低理解成本",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 5,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "极简人租房考量",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E4%BA%BA%E7%A7%9F%E6%88%BF%E8%80%83%E9%87%8F&source=web_search_result_notes&type=51",
-            "topic": "极简",
-            "tags": [
-              "minimal"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "3205赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "决策清单具有常青价值",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 6,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "极简八平米",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E5%85%AB%E5%B9%B3%E7%B1%B3&source=web_search_result_notes&type=51",
-            "topic": "极简",
-            "tags": [
-              "minimal"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "3087赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "具体空间约束持续有效",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 7,
-            "section": "highlights"
-          }
-        ],
-        "highlights": [
-          {
-            "kind": "content",
-            "title": "主体性一下就回来了",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E4%B8%BB%E4%BD%93%E6%80%A7%E4%B8%80%E4%B8%8B%E5%B0%B1%E5%9B%9E%E6%9D%A5%E4%BA%86&source=web_search_result_notes&type=51",
-            "topic": "女性成长",
-            "tags": [
-              "women"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "约5.5万赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "同义表达持续复现，已形成公共语言",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": "./assets/agency.webp",
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 0,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "天呐好犀利的人生发言",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A4%A9%E5%91%90%E5%A5%BD%E7%8A%80%E5%88%A9%E7%9A%84%E4%BA%BA%E7%94%9F%E5%8F%91%E8%A8%80&source=web_search_result_notes&type=51",
-            "topic": "女性成长",
-            "tags": [
-              "women"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "约3万赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "人物发言与主体性绑定",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 1,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "当我意识到我在家是完全自由的",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%BD%93%E6%88%91%E6%84%8F%E8%AF%86%E5%88%B0%E6%88%91%E5%9C%A8%E5%AE%B6%E6%98%AF%E5%AE%8C%E5%85%A8%E8%87%AA%E7%94%B1%E7%9A%84&source=web_search_result_notes&type=51",
-            "topic": "女性成长",
-            "tags": [
-              "women"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "约2万赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "生活场景承载抽象价值",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 2,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "好强的主体性",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E5%A5%BD%E5%BC%BA%E7%9A%84%E4%B8%BB%E4%BD%93%E6%80%A7&source=web_search_result_notes&type=51",
-            "topic": "女性成长",
-            "tags": [
-              "women"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "9409赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "新增高位样本，扩散快",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 3,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "说一说极简后不会再买的东西",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E8%AF%B4%E4%B8%80%E8%AF%B4%E6%9E%81%E7%AE%80%E5%90%8E%E4%B8%8D%E4%BC%9A%E5%86%8D%E4%B9%B0%E7%9A%84%E4%B8%9C%E8%A5%BF&source=web_search_result_notes&type=51",
-            "topic": "极简",
-            "tags": [
-              "minimal"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "7994赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "常青清单结构，仍在增长",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 4,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "极简主义大神在此",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%A4%A7%E7%A5%9E%E5%9C%A8%E6%AD%A4&source=web_search_result_notes&type=51",
-            "topic": "极简",
-            "tags": [
-              "minimal"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "3844赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "人物身份降低理解成本",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 5,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "极简人租房考量",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E4%BA%BA%E7%A7%9F%E6%88%BF%E8%80%83%E9%87%8F&source=web_search_result_notes&type=51",
-            "topic": "极简",
-            "tags": [
-              "minimal"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "3205赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "决策清单具有常青价值",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 6,
-            "section": "highlights"
-          },
-          {
-            "kind": "content",
-            "title": "极简八平米",
-            "href": "https://www.xiaohongshu.com/search_result?keyword=%E6%9E%81%E7%AE%80%E5%85%AB%E5%B9%B3%E7%B1%B3&source=web_search_result_notes&type=51",
-            "topic": "极简",
-            "tags": [
-              "minimal"
-            ],
-            "type": "",
-            "author": "",
-            "date": "",
-            "metrics": "3087赞",
-            "change": "",
-            "baseline": "",
-            "current": "",
-            "insight": "具体空间约束持续有效",
-            "priority": "",
-            "evidence": "",
-            "confidence": "",
-            "image": null,
-            "sourceKinds": [
-              "content"
-            ],
-            "sourceOrder": 7,
-            "section": "highlights"
-          }
-        ],
-        "inspiration": [],
-        "conclusions": [],
-        "topics": []
-      }
-    }
-  },
-  "archive": [
     {
       "date": "2026-07-31",
       "label": "7月31日",
