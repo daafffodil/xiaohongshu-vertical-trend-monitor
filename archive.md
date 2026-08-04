@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-08-05](#2026-08-05)
 - [2026-08-03](#2026-08-03)
 - [2026-08-02](#2026-08-02)
 - [2026-08-01](#2026-08-01)
@@ -11,6 +12,83 @@
 - [2026-07-30](#2026-07-30)
 - [2026-07-29](#2026-07-29)
 - [2026-07-28](#2026-07-28)
+
+---
+
+## 2026-08-05
+
+- 定稿采样：2026-08-05 09:00—09:05（Asia/Shanghai；用户重新登录后的人工补采）
+- 观察窗口：2026-08-04 09:00—2026-08-05 09:00
+- 样本口径：7个关键词首屏读取132张卡片，按笔记标识去重后126条；“1天前”按小于24小时处理；搜索卡单一数字按可见点赞记录
+
+### 当日结论
+
+1. **女性主体性进入概念反思阶段。** “为什么我越来越不想听别人聊主体性了”显示1天前、约3.5万赞，但详情暂不可浏览，因此保留高位信号、不补写藏评。
+2. **断舍离的新帖开始同时覆盖关系、月份节点与具体品类。** 关系断舍离、八月打卡、三伏天居家整理和过期药品清理共同出现。
+3. **极简周级增长仍来自成熟结构。** “极简主义大神在此”较8月3日增加281赞，“说一说极简后不会再买的东西”增加374赞；本轮没有同量级24小时新帖。
+4. **旧衣仍是问题热强于内容热。** 24小时新帖体量小，但捐赠去向、回收箱名义和阶段告别持续出现在搜索中。
+5. **8月4日内容“回收箱不等于捐赠箱”可保留为业务解释。** 它有长期搜索需求和政策依据，但不能写成8月4日热榜选题。
+
+### 当日选题方向
+
+| 优先级 | 选题 | 当日依据 | 建议的解决路径 |
+|---|---|---|---|
+| A | **主体性也需要被质疑** | 约3.5万赞概念反思帖 | 区分选择权、自我中心与口号化表达 |
+| A | **别替别人扔东西** | 关系断舍离出现多条新信号 | 物品权属、记忆与协商顺序 |
+| A | **回收箱不是捐赠箱** | 长期问答305赞，政策依据充分 | 解释名义、主体与去向，不冒充24小时热点 |
+| B | **不买也能换种生活** | 4040赞周级信号 | 从情绪消费写替代行动 |
+| B | **上岸后怎么清旧衣** | 昨日旧衣新帖 | 保留纪念证据，再按去向分类 |
+
+### 内容信号榜
+
+| 排名 | 主题簇 | 内容 | 作者 | 发布时间 | 采样时可见互动 | 判断 |
+|---:|---|---|---|---|---:|---|
+| 1 | 女性主体性 × 概念反思 | [为什么我越来越不想听别人聊“主体性”了](https://www.xiaohongshu.com/search_result?keyword=为什么我越来越不想听别人聊主体性了&source=web_search_result_notes&type=51) | 王悦伊 | 1天前 | 约3.5万赞 | 搜索卡高位；详情待复核 |
+| 2 | 女性成长 × 关系感受 | [女性力量外刊丨爱里最珍贵的，是“不忍心”](https://www.xiaohongshu.com/search_result?keyword=女性力量外刊爱里最珍贵的是不忍心&source=web_search_result_notes&type=51) | 女性力量外刊 | 1天前 | 276赞 | 摘录型内容降权 |
+| 3 | 断舍离 × 居家场景 | [三伏天不出门，在家断舍离，扔完一身轻松](https://www.xiaohongshu.com/search_result?keyword=三伏天不出门在家断舍离扔完一身轻松&source=web_search_result_notes&type=51) | 丁米娅 | 1天前 | 72赞 | 天气、居家与动作结合 |
+| 4 | 断舍离 × 月度打卡 | [八月断舍离✖️7🎁](https://www.xiaohongshu.com/search_result?keyword=八月断舍离7&source=web_search_result_notes&type=51) | 喝養楽多 | 昨天09:30 | 69赞 | 月份节点与数量任务 |
+| 5 | 断舍离 × 关系 | [不合适的人要像不合适的物品一样及时断舍离](https://www.xiaohongshu.com/search_result?keyword=不合适的人要像不合适的物品一样及时断舍离&source=web_search_result_notes&type=51) | 小镇流浪家 | 昨天20:52 | 17赞 | 概念迁移到关系 |
+| 6 | 断舍离 × 消耗记录 | [补货｜消耗｜扔垃圾｜断舍离](https://www.xiaohongshu.com/search_result?keyword=补货消耗扔垃圾断舍离&source=web_search_result_notes&type=51) | 髙森焱 | 昨天23:20 | 8赞 | 入口与出口同时记录 |
+| 7 | 断舍离 × 旧物告别 | [断舍离一件件衣物，像作别过往](https://www.xiaohongshu.com/search_result?keyword=断舍离一件件衣物像作别过往&source=web_search_result_notes&type=51) | 🐳 | 昨天20:58 | 7赞 | 旧衣与记忆结合 |
+| 8 | 旧衣 × 捐赠去向 | [加拿大旧衣捐赠](https://www.xiaohongshu.com/search_result?keyword=加拿大旧衣捐赠&source=web_search_result_notes&type=51) | Yvonne茶茶和没有人 | 昨天12:14 | 6赞 | 路径型小体量信号 |
+| 9 | 断舍离 × 药品 | [精简生活｜健康第一步，过期药品断舍离](https://www.xiaohongshu.com/search_result?keyword=精简生活健康第一步过期药品断舍离&source=web_search_result_notes&type=51) | 斯玟的生活备忘录 | 昨天19:51 | 5赞 | 品类明确 |
+| 10 | 旧衣 × 阶段告别 | [考研考公上岸后｜这样整理陪我备考的旧衣](https://www.xiaohongshu.com/search_result?keyword=考研考公上岸后这样整理陪我备考的旧衣&source=web_search_result_notes&type=51) | 一帘幽梦 | 昨天12:15 | 1赞 | 场景具体，仍处早期 |
+
+### 待复核信号
+
+| 主题 | 内容 | 作者 | 发布时间 | 可见互动 | 状态 |
+|---|---|---|---|---:|---|
+| 女性主体性 | [为什么我越来越不想听别人聊“主体性”了](https://www.xiaohongshu.com/search_result?keyword=为什么我越来越不想听别人聊主体性了&source=web_search_result_notes&type=51) | 王悦伊 | 1天前 | 约3.5万赞 | 搜索卡可见；详情返回暂不可浏览，不自动补写藏评 |
+
+### 需求／交易／品牌信号
+
+| 类型 | 内容 | 作者 | 发布时间 | 可见互动 | 处理 |
+|---|---|---|---|---:|---|
+| 服务体验 | [在爱回收和旧物告别](https://www.xiaohongshu.com/search_result?keyword=在爱回收和旧物告别&source=web_search_result_notes&type=51) | 雨停了 | 昨天19:36 | 90赞 | 与内容热分榜 |
+| 自有内容 | [别替别人断舍离](https://www.xiaohongshu.com/search_result?keyword=别替别人断舍离&source=web_search_result_notes&type=51) | 旧衣服回收铛铛一下 | 1天前 | 4赞 | 不进入外部热榜 |
+| 自有内容 | [185篇研究发现，旧衣回收最缺一手数据](https://www.xiaohongshu.com/search_result?keyword=185篇研究发现旧衣回收最缺一手数据&source=web_search_result_notes&type=51) | 旧衣服回收铛铛一下 | 1天前 | 点赞未显示数值 | 研究型表达，继续观察 |
+| 品牌型 | [Patagonia I 旧衣循环市集](https://www.xiaohongshu.com/search_result?keyword=Patagonia旧衣循环市集&source=web_search_result_notes&type=51) | Patagonia杭州 | 07-28 | 8赞 | 线下活动，不进入内容榜 |
+
+### 同帖互动增量
+
+| 内容 | 上一可用样本 | 本轮样本 | 可确认变化 | 说明 |
+|---|---:|---:|---:|---|
+| [极简主义大神在此](https://www.xiaohongshu.com/search_result?keyword=极简主义大神在此&source=web_search_result_notes&type=51) | 4323赞（08-03） | 4604赞 | **+281赞** | 周级信号 |
+| [说一说极简后不会再买的东西！！](https://www.xiaohongshu.com/search_result?keyword=说一说极简后不会再买的东西&source=web_search_result_notes&type=51) | 8420赞（08-03） | 8794赞 | **+374赞** | 周月级信号 |
+| [断舍离最难的是承认它不值钱](https://www.xiaohongshu.com/search_result?keyword=断舍离最难的是承认它不值钱&source=web_search_result_notes&type=51) | 9赞（08-03） | 9赞 | **无可见变化** | 自有内容 |
+
+### 排除项
+
+- 自有账号不进入外部热榜，避免登录个性化造成自我强化。
+- 纯闲置出售、求购和品牌活动不进入内容榜。
+- 搜索卡标题缺失的笔记不凭互动自动升榜。
+
+### 数据缺口
+
+- 8月4日09:00采样因登录失效失败，本轮不能反推8月4日正式榜。
+- 高互动主体性帖详情要求App扫码，收藏和评论未补写。
+- 搜索卡多数只显示点赞；未显示数据不推断。
+- 综合搜索受账号历史和个性化排序影响，不代表全站完整排名。
 
 ---
 

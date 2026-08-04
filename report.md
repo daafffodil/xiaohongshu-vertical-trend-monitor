@@ -1,9 +1,12 @@
-# 小红书垂直主题趋势报告
+# 小红书垂直主题趋势总报
 
-> 更新：2026-08-03 09:05（Asia/Shanghai）  
-> 本轮采样：2026-08-03 09:00—09:05  
-> 观察主题：旧衣、断舍离、极简、女性成长  
-> 数据口径：已登录会话只读抽样；“1天前”按小于24小时处理；卡片单一数字按可见点赞记录；详情页未显示的数据不补写。
+- 更新日期：2026-08-05
+- 最新采样：2026-08-05 09:00—09:05（Asia/Shanghai；用户重新登录后的人工补采）
+- 观察主题：旧衣、断舍离、极简、女性成长及扩展词
+- 样本口径：7 个关键词搜索首屏共读取 132 张卡片，按笔记标识去重后 126 条；只读，不发布、不点赞、不评论
+- 历史日榜：[打开 24 小时日榜归档](./archive.html)
+
+> 本报告是登录态综合搜索的有限样本，不是小红书官方全站榜。平台显示“1天前”的内容按小于24小时处理；搜索卡单一数字按可见点赞记录。
 
 ## 目录
 
@@ -11,186 +14,136 @@
 - [24 小时内容信号榜](#24-小时内容信号榜)
 - [本周内容热榜](#本周内容热榜)
 - [本月内容热榜](#本月内容热榜)
-- [分主题领先内容](#分主题领先内容)
-- [需求交易与品牌信号](#需求交易与品牌信号)
-- [主题深读与议题迁移](#主题深读与议题迁移)
+- [主题迁移](#主题迁移)
 - [当前选题库](#当前选题库)
 - [排除项与数据质量](#排除项与数据质量)
-- [排序方法](#排序方法)
-- [下一轮验证](#下一轮验证)
 
 ---
 
 ## 最新结论
 
-1. **女性主体性仍是本轮最强的可验证增长信号。** [天呐 好强的主体性](https://www.xiaohongshu.com/search_result?keyword=天呐%20好强的主体性&source=web_search_result_notes&type=51) 从3612赞升至6018赞，新增2406赞；评论从20条增至26条。
-2. **真正扩散的不是“我必须赢”，而是对规则的重新解释。** 评论持续出现“自己支一张桌子”“离开不合适的桌子”和“撤掉原来的桌子”，说明退出、创造和联合改变规则都比单一强者口号更有讨论价值。
-3. **断舍离出现“共同生活冲突”高互动信号。** “老婆想断舍离但离不动”首次卡片显示2824赞，但刷新后未稳定复现，因此保留在待复核区，不凭一次累计互动直接升榜。
-4. **衣物断舍离比泛整理更容易获得即时反馈。** “夏日衣物×10断舍离”达到128赞，高于多数同期清单帖；具体品类、数量和动作仍是可复用结构。
-5. **极简常青内容继续缓慢增长。** “极简主义大神”新增252赞，“极简后不会再买”新增287赞；新鲜爆点少，但人物与不买清单继续发挥长期价值。
-6. **旧衣回收的新鲜内容依然弱。** 24小时内只有工厂流程科普和旧衣收纳等小体量信号，服务去向问题仍比泛环保叙事更稳定。
+1. **女性主体性进入“反思概念”的第二阶段。** “为什么我越来越不想听别人聊主体性了”在搜索卡显示1天前、约3.5万赞，明显高于同窗其他新帖；它不再重复“夺回主体性”，而是追问这个词是否被滥用。
+2. **断舍离的新鲜信号从物品清单转向关系与具体场景。** “不合适的人要像不合适的物品一样及时断舍离”“别替别人断舍离”与过期药品、三伏天整理同时出现，说明抽象概念只有落在冲突或场景里才更有内容价值。
+3. **极简的周级增长仍由反向清单和身份化表达贡献。** “极简主义大神在此”较8月3日增加281赞，“说一说极简后不会再买的东西”增加374赞；本轮没有同量级24小时新帖。
+4. **旧衣仍是稳定决策需求，不是当天爆发主题。** 近期新帖集中在上岸后整理旧衣、加拿大旧衣捐赠和回收研究；“回收箱是不是捐赠箱”在搜索中有长期问答，但不是8月5日的新爆点。
+5. **8月4日内容可以保留，但必须改写它的证据标签。** “旧衣回收箱不等于捐赠箱”有长期搜索需求与政策依据，适合业务解释；不能称为当日热榜或高赞复刻。
 
 ---
 
 ## 24 小时内容信号榜
 
-观察窗口：2026-08-02 09:00—2026-08-03 09:00。
+- 观察窗口：2026-08-04 09:00—2026-08-05 09:00
+- 命中词：旧衣、断舍离、旧衣回收、极简生活、女性成长、女性主体性、旧衣回收箱 捐赠箱
+- 排序说明：优先新鲜度、可见互动、主题相关性和问题价值；异常高互动但详情不可访问的内容保留并标注
 
 | 排名 | 主题簇 | 内容 | 作者 | 发布时间 | 采样时可见互动 | 当前判断 |
 |---:|---|---|---|---|---:|---|
-| 1 | 女性主体性 × 竞争规则 | [天呐 好强的主体性](https://www.xiaohongshu.com/search_result?keyword=天呐%20好强的主体性&source=web_search_result_notes&type=51) | Sansan_CX | 1天前 | 6018赞、26评 | 详情已复核；新增2406赞、6评 |
-| 2 | 断舍离 × 衣物清理 | [vlog 夏日衣物×10断舍离](https://www.xiaohongshu.com/search_result?keyword=vlog%20夏日衣物%2010断舍离&source=web_search_result_notes&type=51) | 暴躁板栗酥（改造中.） | 昨天19:44 | 128赞 | 品类、数量和行动明确 |
-| 3 | 断舍离 × 周末整理 | [周末 清洁 整理 断舍离](https://www.xiaohongshu.com/search_result?keyword=周末%20清洁%20整理%20断舍离&source=web_search_result_notes&type=51) | Lisalu丹尼尔 | 昨天16:16 | 101赞 | 日程场景明确 |
-| 4 | 女性主体性 × 自我感受 | [天呐！原来主体性强的人这么爽！](https://www.xiaohongshu.com/search_result?keyword=天呐原来主体性强的人这么爽&source=web_search_result_notes&type=51) | 慕慕觉察笔记 | 昨天22:13 | 60赞 | 与主议题形成多作者复现 |
-| 5 | 断舍离 × 沉浸式过程 | [沉浸式断舍离6组](https://www.xiaohongshu.com/search_result?keyword=沉浸式断舍离6组&source=web_search_result_notes&type=51) | 佳佳（xuan） | 昨天19:26 | 43赞 | 过程型内容；可视化强 |
-| 6 | 断舍离 × 家务减负 | [我们这个戏的主题就是少弯腰，少干家务](https://www.xiaohongshu.com/search_result?keyword=我们这个戏的主题就是少弯腰少干家务&source=web_search_result_notes&type=51) | 五花肉小天才 | 1小时前 | 38赞 | 新鲜度高；关联性中等 |
-| 7 | 断舍离 × 居住整理 | [一场彻底断舍离，治愈杂乱，家里越住越舒](https://www.xiaohongshu.com/search_result?keyword=一场彻底断舍离治愈杂乱家里越住越舒&source=web_search_result_notes&type=51) | 小红蔬 | 昨天16:31 | 39赞 | 结果承诺直接 |
-| 8 | 断舍离 × 首饰 | [92年34岁｜爱碎碎念的首饰断舍离](https://www.xiaohongshu.com/search_result?keyword=92年34岁爱碎碎念的首饰断舍离&source=web_search_result_notes&type=51) | 爱碎碎念的昕煜 | 昨天12:14 | 31赞 | 年龄、品类和过程结合 |
-| 9 | 女性主体性 × 身份练习 | [女性外刊丨想去成为谁，就去扮演谁](https://www.xiaohongshu.com/search_result?keyword=女性外刊想去成为谁就去扮演谁&source=web_search_result_notes&type=51) | 女性成长外刊 | 1小时前 | 21赞 | 早期信号；来源待核 |
-| 10 | 旧衣收纳 × ADHD | [ADHD旧衣收纳（在家逛街版）](https://www.xiaohongshu.com/search_result?keyword=ADHD旧衣收纳在家逛街版&source=web_search_result_notes&type=51) | Apolune | 1天前 | 15赞 | 特定人群和场景；同帖复现 |
+| 1 | 女性主体性 × 概念反思 | [为什么我越来越不想听别人聊“主体性”了](https://www.xiaohongshu.com/search_result?keyword=为什么我越来越不想听别人聊主体性了&source=web_search_result_notes&type=51) | 王悦伊 | 1天前 | 约3.5万赞 | 搜索卡高位；详情要求App扫码，保留待复核 |
+| 2 | 女性成长 × 关系感受 | [女性力量外刊丨爱里最珍贵的，是“不忍心”](https://www.xiaohongshu.com/search_result?keyword=女性力量外刊爱里最珍贵的是不忍心&source=web_search_result_notes&type=51) | 女性力量外刊 | 1天前 | 276赞 | 摘录型内容，题面扩散强于原创价值 |
+| 3 | 断舍离 × 居家场景 | [三伏天不出门，在家断舍离，扔完一身轻松](https://www.xiaohongshu.com/search_result?keyword=三伏天不出门在家断舍离扔完一身轻松&source=web_search_result_notes&type=51) | 丁米娅 | 1天前 | 72赞 | 天气、居家与动作结合 |
+| 4 | 断舍离 × 月度打卡 | [八月断舍离✖️7🎁](https://www.xiaohongshu.com/search_result?keyword=八月断舍离7&source=web_search_result_notes&type=51) | 喝養楽多 | 昨天09:30 | 69赞 | 月份节点与数量任务 |
+| 5 | 断舍离 × 关系 | [不合适的人要像不合适的物品一样及时断舍离](https://www.xiaohongshu.com/search_result?keyword=不合适的人要像不合适的物品一样及时断舍离&source=web_search_result_notes&type=51) | 小镇流浪家 | 昨天20:52 | 17赞 | 物品概念迁移到关系 |
+| 6 | 断舍离 × 消耗记录 | [补货｜消耗｜扔垃圾｜断舍离](https://www.xiaohongshu.com/search_result?keyword=补货消耗扔垃圾断舍离&source=web_search_result_notes&type=51) | 髙森焱 | 昨天23:20 | 8赞 | 入口与出口同时记录 |
+| 7 | 断舍离 × 旧物告别 | [断舍离一件件衣物，像作别过往](https://www.xiaohongshu.com/search_result?keyword=断舍离一件件衣物像作别过往&source=web_search_result_notes&type=51) | 🐳 | 昨天20:58 | 7赞 | 旧衣与记忆结合 |
+| 8 | 旧衣 × 捐赠去向 | [加拿大旧衣捐赠](https://www.xiaohongshu.com/search_result?keyword=加拿大旧衣捐赠&source=web_search_result_notes&type=51) | Yvonne茶茶和没有人 | 昨天12:14 | 6赞 | 路径型小体量信号 |
+| 9 | 断舍离 × 药品 | [精简生活｜健康第一步，过期药品断舍离](https://www.xiaohongshu.com/search_result?keyword=精简生活健康第一步过期药品断舍离&source=web_search_result_notes&type=51) | 斯玟的生活备忘录 | 昨天19:51 | 5赞 | 品类明确，兼具安全价值 |
+| 10 | 旧衣 × 阶段告别 | [考研考公上岸后｜这样整理陪我备考的旧衣](https://www.xiaohongshu.com/search_result?keyword=考研考公上岸后这样整理陪我备考的旧衣&source=web_search_result_notes&type=51) | 一帘幽梦 | 昨天12:15 | 1赞 | 场景具体，仍处早期 |
 
 ### 24 小时待复核信号
 
-| 主题 | 内容 | 作者 | 发布时间 | 可见互动 | 复核状态 |
+| 主题 | 内容 | 页面时间 | 可见互动 | 复核状态 |
+|---|---|---|---:|---|
+| 女性主体性 | [为什么我越来越不想听别人聊“主体性”了](https://www.xiaohongshu.com/search_result?keyword=为什么我越来越不想听别人聊主体性了&source=web_search_result_notes&type=51) | 1天前 | 约3.5万赞 | 搜索卡可见；详情返回“当前笔记暂时无法浏览”，不补写藏评 |
+
+### 需求／交易／品牌信号
+
+| 类型 | 内容 | 作者 | 发布时间 | 可见互动 | 处理 |
 |---|---|---|---|---:|---|
-| 断舍离 × 共同生活 | [老婆想断舍离但离不动](https://www.xiaohongshu.com/search_result?keyword=老婆想断舍离但离不动&source=web_search_result_notes&type=51) | 大圣和大拿 | 昨天18:58 | 2824赞 | 首次卡片可见；刷新后未稳定复现，详情路径异常；保留但不升榜 |
-| 旧衣 × 工厂科普 | [旧衣再生工厂流程科普](https://www.xiaohongshu.com/search_result?keyword=旧衣再生工厂流程科普&source=web_search_result_notes&type=51) | 小红薯67E109F1 | 2小时前 | 点赞未显示数值 | 内容相关，但热度无法比较 |
+| 服务体验 | [在爱回收和旧物告别](https://www.xiaohongshu.com/search_result?keyword=在爱回收和旧物告别&source=web_search_result_notes&type=51) | 雨停了 | 昨天19:36 | 90赞 | 服务场景单列，不进入内容榜 |
+| 自有内容 | [别替别人断舍离](https://www.xiaohongshu.com/search_result?keyword=别替别人断舍离&source=web_search_result_notes&type=51) | 旧衣服回收铛铛一下 | 1天前 | 4赞 | 自有账号不进入外部热榜 |
+| 自有内容 | [185篇研究发现，旧衣回收最缺一手数据](https://www.xiaohongshu.com/search_result?keyword=185篇研究发现旧衣回收最缺一手数据&source=web_search_result_notes&type=51) | 旧衣服回收铛铛一下 | 1天前 | 点赞未显示数值 | 研究型表达，继续观察 |
 
 ### 同帖互动增量
 
-| 内容 | 上一可用样本 | 本轮样本 | 可确认变化 | 说明 |
-|---|---:|---:|---:|---|
-| [天呐 好强的主体性](https://www.xiaohongshu.com/search_result?keyword=天呐%20好强的主体性&source=web_search_result_notes&type=51) | 3612赞、20评 | 6018赞、26评 | **+2406赞、+6评** | 同标题同作者；详情页复核 |
-| [说一说极简后不会再买的东西](https://www.xiaohongshu.com/search_result?keyword=说一说极简后不会再买的东西&source=web_search_result_notes&type=51) | 8133赞 | 8420赞 | **+287赞** | 精确可比 |
-| [极简主义大神在此](https://www.xiaohongshu.com/search_result?keyword=极简主义大神在此&source=web_search_result_notes&type=51) | 4071赞 | 4323赞 | **+252赞** | 相对时间连续显示1天前；仅作周榜与增量 |
-| [断舍离最难的是承认它不值钱](https://www.xiaohongshu.com/search_result?keyword=断舍离最难的是承认它不值钱&source=web_search_result_notes&type=51) | 8赞 | 9赞 | **+1赞** | 自有内容；与外部榜分开 |
-| [ADHD旧衣收纳（在家逛街版）](https://www.xiaohongshu.com/search_result?keyword=ADHD旧衣收纳在家逛街版&source=web_search_result_notes&type=51) | 15赞 | 15赞 | **无可见变化** | 同帖复现 |
+| 内容 | 08-03值 | 08-05值 | 可确认变化 |
+|---|---:|---:|---:|
+| [极简主义大神在此](https://www.xiaohongshu.com/search_result?keyword=极简主义大神在此&source=web_search_result_notes&type=51) | 4323赞 | 4604赞 | **+281赞** |
+| [说一说极简后不会再买的东西！！](https://www.xiaohongshu.com/search_result?keyword=说一说极简后不会再买的东西&source=web_search_result_notes&type=51) | 8420赞 | 8794赞 | **+374赞** |
+| [断舍离最难的是承认它不值钱](https://www.xiaohongshu.com/search_result?keyword=断舍离最难的是承认它不值钱&source=web_search_result_notes&type=51) | 9赞 | 9赞 | **无可见变化** |
 
 ---
 
 ## 本周内容热榜
 
-口径：最近7天搜索抽样；按扩散、同帖增量、多作者复现和评论问题价值综合判断，不把累计互动直接称为增长速度。
+时间窗口：最近7天。累计点赞与同帖增量分开记录。
 
 ### 本周内容型
 
-| 排名 | 内容 | 主题 | 当前可见互动 | 七日判断 |
-|---:|---|---|---:|---|
-| 1 | [天呐 好强的主体性](https://www.xiaohongshu.com/search_result?keyword=天呐%20好强的主体性&source=web_search_result_notes&type=51) | 女性主体性 × 竞争规则 | 6018赞、26评 | 一日新增2406赞、6评；评论持续改写原命题 |
-| 2 | [主体性一下就回来了](https://www.xiaohongshu.com/search_result?keyword=主体性一下就回来了&source=web_search_result_notes&type=51) | 女性主体性 | 截至8月2日约5.6万赞 | 同主题高位常青；多作者复现 |
-| 3 | [说一说极简后不会再买的东西](https://www.xiaohongshu.com/search_result?keyword=说一说极简后不会再买的东西&source=web_search_result_notes&type=51) | 极简 × 不买 | 8420赞 | 本轮新增287赞；清单结构持续 |
-| 4 | [极简主义大神在此](https://www.xiaohongshu.com/search_result?keyword=极简主义大神在此&source=web_search_result_notes&type=51) | 极简 × 人物 | 4323赞 | 本轮新增252赞；人物标签稳定 |
-| 5 | [女性力量外刊丨不要害怕身边人会比你幸福](https://www.xiaohongshu.com/search_result?keyword=女性力量外刊不要害怕身边人会比你幸福&source=web_search_result_notes&type=51) | 女性成长 × 比较焦虑 | 截至8月2日2258赞、15评 | 上轮一日新增2179赞；本轮未复现，不记为零 |
-| 6 | [vlog 夏日衣物×10断舍离](https://www.xiaohongshu.com/search_result?keyword=vlog夏日衣物10断舍离&source=web_search_result_notes&type=51) | 断舍离 × 衣物 | 128赞 | 新帖；品类、数量和行动完整 |
-| 7 | [周末 清洁 整理 断舍离](https://www.xiaohongshu.com/search_result?keyword=周末清洁整理断舍离&source=web_search_result_notes&type=51) | 断舍离 × 日程 | 101赞 | 周末场景可复用 |
-| 8 | [ADHD旧衣收纳（在家逛街版）](https://www.xiaohongshu.com/search_result?keyword=ADHD旧衣收纳在家逛街版&source=web_search_result_notes&type=51) | 旧衣 × 特定人群 | 15赞 | 互动低，但对象和场景具体 |
-| 9 | [旧衣再生工厂流程科普](https://www.xiaohongshu.com/search_result?keyword=旧衣再生工厂流程科普&source=web_search_result_notes&type=51) | 旧衣 × 流程 | 点赞未显示数值 | 新鲜但热度不可比较 |
+| 排名 | 内容 | 主题 | 当前可见互动 | 已知变化 | 周级判断 |
+|---:|---|---|---:|---:|---|
+| 1 | [为什么我越来越不想听别人聊“主体性”了](https://www.xiaohongshu.com/search_result?keyword=为什么我越来越不想听别人聊主体性了&source=web_search_result_notes&type=51) | 主体性概念反思 | 约3.5万赞 | 本轮首见 | 高位但详情待复核；概念进入反思阶段 |
+| 2 | [极简主义大神在此](https://www.xiaohongshu.com/search_result?keyword=极简主义大神在此&source=web_search_result_notes&type=51) | 极简人物 | 4604赞 | 较08-03 +281赞 | 身份化表达继续增长 |
+| 3 | [最想提醒自己的：不要靠买东西获得新生活感](https://www.xiaohongshu.com/search_result?keyword=不要靠买东西获得新生活感&source=web_search_result_notes&type=51) | 极简、消费 | 4040赞 | 本轮首见 | 把“不买”连接到情绪需求 |
+| 4 | [女性外刊丨不要胆小如鼠的过完这一生](https://www.xiaohongshu.com/search_result?keyword=不要胆小如鼠的过完这一生&source=web_search_result_notes&type=51) | 女性成长 | 193赞 | 本轮首见 | 摘录型，原创价值降权 |
+| 5 | [不合适的人要像不合适的物品一样及时断舍离](https://www.xiaohongshu.com/search_result?keyword=不合适的人要像不合适的物品一样及时断舍离&source=web_search_result_notes&type=51) | 关系断舍离 | 17赞 | 新帖 | 关系迁移开始出现 |
 
 ### 本周需求／交易／品牌型
 
-| 排名 | 信号 | 类型 | 当前可见互动 | 判断 |
-|---:|---|---|---:|---|
-| 1 | [旧衣服是直接扔了还是上门回收](https://www.xiaohongshu.com/search_result?keyword=旧衣服是直接扔了还是上门回收&source=web_search_result_notes&type=51) | 长期需求 | 1076赞 | 非本周新帖；去向决策持续 |
-| 2 | [旧衣处理的最好方法 鹿岛换包](https://www.xiaohongshu.com/search_result?keyword=旧衣处理的最好方法鹿岛换包&source=web_search_result_notes&type=51) | 服务需求 | 截至8月2日472赞 | 服务体验仍是明确决策入口 |
-| 3 | [断舍离最难的是承认它不值钱](https://www.xiaohongshu.com/search_result?keyword=断舍离最难的是承认它不值钱&source=web_search_result_notes&type=51) | 自有内容 | 9赞 | 新增1赞；单列观察 |
-| 4 | [第一次鹿岛旧衣换包大成功](https://www.xiaohongshu.com/search_result?keyword=第一次鹿岛旧衣换包大成功&source=web_search_result_notes&type=51) | 服务体验 | 23赞 | 与内容热分榜 |
+| 类型 | 内容 | 当前可见互动 | 已知变化 | 判断 |
+|---|---|---:|---:|---|
+| 品牌／服务型 | [旧衣处理的最好方法 鹿岛换包](https://www.xiaohongshu.com/search_result?keyword=旧衣处理的最好方法鹿岛换包&source=web_search_result_notes&type=51) | 473赞 | 与08-03相同 | 结果导向需求稳定，非本周新帖 |
+| 品牌型 | [Patagonia I 旧衣循环市集](https://www.xiaohongshu.com/search_result?keyword=Patagonia旧衣循环市集&source=web_search_result_notes&type=51) | 8赞 | 本轮复现 | 线下循环活动信号 |
+| 自有内容 | [断舍离最难的是承认它不值钱](https://www.xiaohongshu.com/search_result?keyword=断舍离最难的是承认它不值钱&source=web_search_result_notes&type=51) | 9赞 | 无可见变化 | 单列，不进入外部热榜 |
 
 ---
 
 ## 本月内容热榜
 
-口径：最近30天仍可见且与主题高度相关的样本；按持续性、多作者复现和常青价值排序。
+时间窗口：2026-07-06—2026-08-05。用于识别持续议题，不代表24小时增长速度。
 
 ### 本月内容型
 
-| 排名 | 内容 | 主题 | 当前可见互动 | 月度价值 |
-|---:|---|---|---:|---|
-| 1 | [主体性一下就回来了](https://www.xiaohongshu.com/search_result?keyword=主体性一下就回来了&source=web_search_result_notes&type=51) | 女性主体性 | 截至8月2日约5.6万赞 | 已形成可复述的公共语言 |
-| 2 | [太多人搞混了主体性和自我意识过盛](https://www.xiaohongshu.com/search_result?keyword=太多人搞混了主体性和自我意识过盛&source=web_search_result_notes&type=51) | 女性主体性 × 概念澄清 | 2.5万赞 | 解释误区比泛赞美更具讨论深度 |
-| 3 | [女性外刊丨不和身边人讨论深刻话题](https://www.xiaohongshu.com/search_result?keyword=女性外刊不和身边人讨论深刻话题&source=web_search_result_notes&type=51) | 女性成长 × 边界 | 2.1万赞 | 边界判断持续获得高互动 |
-| 4 | [说一说极简后不会再买的东西](https://www.xiaohongshu.com/search_result?keyword=说一说极简后不会再买的东西&source=web_search_result_notes&type=51) | 极简 × 不买 | 8420赞 | 清单结构持续增长 |
-| 5 | [天呐 好强的主体性](https://www.xiaohongshu.com/search_result?keyword=天呐%20好强的主体性&source=web_search_result_notes&type=51) | 女性主体性 × 竞争规则 | 6018赞、26评 | 评论区形成多路径解释 |
-| 6 | [极简主义大神在此](https://www.xiaohongshu.com/search_result?keyword=极简主义大神在此&source=web_search_result_notes&type=51) | 极简 × 人物 | 4323赞 | 人物身份降低理解成本 |
-| 7 | [低物欲可以到什么程度](https://www.xiaohongshu.com/search_result?keyword=低物欲可以到什么程度&source=web_search_result_notes&type=51) | 极简 × 低物欲 | 1486赞 | 程度比较结构具有常青价值 |
-| 8 | [旧衣物舍不得扔那就换个方法消耗](https://www.xiaohongshu.com/search_result?keyword=旧衣物舍不得扔那就换个方法消耗&source=web_search_result_notes&type=51) | 旧衣 × 物尽其用 | 866赞 | 具体替代方案优于泛环保叙事 |
+| 排名 | 内容 | 主题 | 当前可见互动 | 已知变化 | 月度价值 |
+|---:|---|---|---:|---:|---|
+| 1 | [为什么我越来越不想听别人聊“主体性”了](https://www.xiaohongshu.com/search_result?keyword=为什么我越来越不想听别人聊主体性了&source=web_search_result_notes&type=51) | 主体性纠偏 | 约3.5万赞 | 本轮首见 | 证明议题从口号进入反思 |
+| 2 | [太多人搞混了主体性与自我意识过盛了](https://www.xiaohongshu.com/search_result?keyword=太多人搞混了主体性与自我意识过盛了&source=web_search_result_notes&type=51) | 主体性纠偏 | 约2.6万赞 | 本轮复现 | 多作者概念纠偏 |
+| 3 | [女性外刊丨不和身边人讨论深刻话题](https://www.xiaohongshu.com/search_result?keyword=女性外刊不和身边人讨论深刻话题&source=web_search_result_notes&type=51) | 女性成长 | 约2.5万赞 | 本轮复现 | 关系边界母题，摘录型降权 |
+| 4 | [说一说极简后不会再买的东西！！](https://www.xiaohongshu.com/search_result?keyword=说一说极简后不会再买的东西&source=web_search_result_notes&type=51) | 极简反向清单 | 8794赞 | 较08-03 +374赞 | 清单兼具增长与常青价值 |
+| 5 | [极简主义大神在此](https://www.xiaohongshu.com/search_result?keyword=极简主义大神在此&source=web_search_result_notes&type=51) | 极简人物 | 4604赞 | 较08-03 +281赞 | 人物化、身份化表达持续 |
+| 6 | [越极简越不喜欢收纳](https://www.xiaohongshu.com/search_result?keyword=越极简越不喜欢收纳&source=web_search_result_notes&type=51) | 极简反常识 | 61赞 | 本轮首见 | 反常识标题具有迁移空间 |
 
 ### 本月需求／交易／品牌型
 
-| 排名 | 信号簇 | 代表内容 | 月度判断 |
-|---:|---|---|---|
-| 1 | 闲置出售摩擦 | [你对断舍离最大的幻想破烂儿可以换钱](https://www.xiaohongshu.com/search_result?keyword=你对断舍离最大的幻想破烂儿可以换钱&source=web_search_result_notes&type=51) | 卖出流程、估值落差和时间成本仍是核心需求 |
-| 2 | 旧衣去向决策 | [旧衣服是直接扔了还是上门回收](https://www.xiaohongshu.com/search_result?keyword=旧衣服是直接扔了还是上门回收&source=web_search_result_notes&type=51) | 透明去向比“环保新生”口号更能建立信任 |
-| 3 | 旧衣服务体验 | [第一次鹿岛旧衣换包大成功](https://www.xiaohongshu.com/search_result?keyword=第一次鹿岛旧衣换包大成功&source=web_search_result_notes&type=51) | 具体结果与体验能帮助用户做去向决策 |
+| 类型 | 内容 | 当前可见互动 | 研究价值 |
+|---|---|---:|---|
+| 品牌／服务型 | [旧衣处理的最好方法 鹿岛换包](https://www.xiaohongshu.com/search_result?keyword=旧衣处理的最好方法鹿岛换包&source=web_search_result_notes&type=51) | 473赞 | 用户关心处理结果，不只关心环保名义 |
+| 品牌型 | [换季断舍离｜优衣库旧衣原来能这样循环利用](https://www.xiaohongshu.com/search_result?keyword=优衣库旧衣循环利用&source=web_search_result_notes&type=51) | 198赞 | 品牌路径解释获得稳定互动 |
+| 公益／服务型 | [衣服回收箱能捐到需要的人手上吗](https://www.xiaohongshu.com/search_result?keyword=衣服回收箱能捐到需要的人手上吗&source=web_search_result_notes&type=51) | 305赞（历史帖） | 长期疑问明确，但不是本月新内容 |
 
 ---
 
-## 分主题领先内容
+## 主题迁移
 
-| 主题 | 24小时领先信号 | 本周领先信号 | 当前变化 |
-|---|---|---|---|
-| 旧衣 | [旧衣再生工厂流程科普](https://www.xiaohongshu.com/search_result?keyword=旧衣再生工厂流程科普&source=web_search_result_notes&type=51) | [ADHD旧衣收纳](https://www.xiaohongshu.com/search_result?keyword=ADHD旧衣收纳在家逛街版&source=web_search_result_notes&type=51) | 新鲜度存在，互动仍弱；流程与特定人群比口号更具体 |
-| 断舍离 | [vlog 夏日衣物×10断舍离](https://www.xiaohongshu.com/search_result?keyword=vlog夏日衣物10断舍离&source=web_search_result_notes&type=51) | [说一说极简后不会再买的东西](https://www.xiaohongshu.com/search_result?keyword=说一说极简后不会再买的东西&source=web_search_result_notes&type=51) | 衣物、数字、日程和冲突共同抬头 |
-| 极简 | 本轮无可信24小时新爆点 | [极简主义大神在此](https://www.xiaohongshu.com/search_result?keyword=极简主义大神在此&source=web_search_result_notes&type=51) | 人物与不买清单继续增长，新内容偏弱 |
-| 女性成长 | [天呐 好强的主体性](https://www.xiaohongshu.com/search_result?keyword=天呐%20好强的主体性&source=web_search_result_notes&type=51) | [主体性一下就回来了](https://www.xiaohongshu.com/search_result?keyword=主体性一下就回来了&source=web_search_result_notes&type=51) | 从强者口号迁移到对规则、退出与创造的讨论 |
-
----
-
-## 需求交易与品牌信号
-
-- **共同生活里的断舍离首先是物品权属问题。** 高互动待复核帖说明“谁能决定丢什么”比“丢多少”更容易触发讨论。
-- **反向清单正在出现。** “扔掉又后悔的5样东西”互动尚低，但它回答的是断舍离的损失规避，值得持续观察。
-- **旧衣处理仍需要具体去向。** 工厂流程、上门回收和换包体验都比泛环保叙事更接近用户决策。
-- **自有账号继续单列。** “旧衣服回收铛铛一下”本轮9赞，不参与外部内容排名。
-
----
-
-## 主题深读与议题迁移
-
-1. 主体性内容继续从一句强势表达，迁移到“是否参加、是否离开、能否重设规则”的行为选择。评论提供的分歧比原始金句更接近真实处境。
-2. 断舍离开始从个人整理迁移到共同生活。物品不只承载使用价值，也承载所有权、记忆和关系，因此替别人做决定更容易产生冲突。
-3. 衣物断舍离的传播优势来自可见性：数量、品类、收拾过程和腾出的空间都能被镜头直接证明。
-4. 旧衣回收仍缺少可信的新鲜爆点；品牌内容应回答去向、分拣标准、收益与失败边界，而不是重复“新生”。
-
----
+- 女性成长：从“拥有主体性”迁移到“谁在定义主体性、这个词是否被滥用”。
+- 断舍离：从统一丢弃清单迁移到关系协商、月份打卡和具体品类。
+- 极简：当天缺少强新帖，但反向清单、人物身份和情绪消费仍有周月价值。
+- 旧衣：搜索需求集中在去向、捐赠资格、回收结果和阶段告别，内容热明显弱于问题热。
 
 ## 当前选题库
 
-所有标题均不超过20个字，不使用冒号。
-
-| 优先级 | 选题 | 证据信号 | 内容路径 |
+| 优先级 | 选题 | 趋势证据 | 内容路径 |
 |---|---|---|---|
-| A | **别替别人断舍离** | 2824赞共同生活冲突帖待复核 | 从物品权属、记忆和协商顺序给出路径 |
-| A | **主体性也可以是离桌** | 6018赞、26评；评论持续争论 | 写留下、离开和另起规则三种选择 |
-| A | **十件衣服怎么断舍离** | 衣物断舍离128赞 | 给出穿着频率、替代性、修复和去向四步 |
-| B | **扔掉后悔的五样东西** | 3小时前反向清单信号 | 用损失规避检查表修正极端断舍离 |
-| B | **旧衣工厂到底怎么分** | 2小时前流程科普 | 展示可再穿、再利用、再生和处置边界 |
-
----
+| A | **主体性也需要被质疑** | 约3.5万赞概念反思帖 | 区分选择权、自我中心和口号化表达 |
+| A | **别替别人扔东西** | 关系断舍离多条复现 | 物品权属、记忆与协商顺序 |
+| A | **回收箱不是捐赠箱** | 长期问答305赞，政策资料充分 | 解释名义、主体与去向，不冒充24小时热点 |
+| B | **不买也能换种生活** | 4040赞周级信号 | 从情绪消费写替代行动 |
+| B | **上岸后怎么清旧衣** | 昨日新帖，阶段场景明确 | 保留纪念证据，再按去向分类 |
 
 ## 排除项与数据质量
 
-- “老婆想断舍离但离不动”虽显示2824赞，但详情复现不稳定，保留待复核且不自动升榜。
-- 排除纯闲置出售与换物信息，不让交易热冒充内容热。
-- 自有账号内容不进入外部热榜，避免登录个性化造成自我强化。
-- “极简主义大神在此”连续显示“1天前”，时间状态存在不一致，只用于周榜和同帖增量。
-- 上轮高位帖本轮未复现时不记为零，也不推断互动下降。
-- 搜索卡片通常只显示点赞；未显示的收藏与评论不推断。
-- 公开报告只使用标题检索链接，不包含登录态或会话参数。
-
----
-
-## 排序方法
-
-- 24小时榜：互动增量优先；新帖无上次样本时，以发布时间、当前互动、相关性和评论问题价值作为速度代理。
-- 本周榜：最近7日扩散、同帖增量、多作者复现和讨论深度。
-- 本月榜：最近30日持续性、多作者复现和常青价值。
-- 单次累计互动不等于增长速度；搜索位置也不等于全平台排名。
-
----
-
-## 下一轮验证
-
-1. 复查“老婆想断舍离但离不动”能否稳定返回详情与评论，不因当前失败删除。
-2. 跟踪“天呐 好强的主体性”增长是否延续，以及评论是否出现新的行为路径。
-3. 扩展“替别人断舍离”“共同生活 物品”“扔掉后悔”等词，验证关系冲突是否跨作者复现。
-4. 补采旧衣工厂流程、回收去向和分拣标准，寻找能被验证的行业内容信号。
+- 8月4日09:00采样因登录失效失败；本轮是8月5日补采，不反推或伪造8月4日正式榜。
+- 高互动主体性帖的详情页返回“当前笔记暂时无法浏览”，只保留搜索卡片数据。
+- 自有账号内容不进入外部内容热榜，避免个性化排序造成自我强化。
+- 纯闲置交易和服务体验单列，不让需求热冒充内容热。
+- 搜索卡片多数只显示点赞；未显示的收藏与评论不推断。
+- 同帖未复现不记为零；本轮可精确比较的只有已保存基线且再次出现的帖子。
