@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-08-06](#2026-08-06)
 - [2026-08-05](#2026-08-05)
 - [2026-08-04](#2026-08-04)
 - [2026-08-03](#2026-08-03)
@@ -13,6 +14,81 @@
 - [2026-07-30](#2026-07-30)
 - [2026-07-29](#2026-07-29)
 - [2026-07-28](#2026-07-28)
+
+---
+
+## 2026-08-06
+
+- 定稿采样：2026-08-06 10:35（Asia/Shanghai；09:00失败后的首次成功人工补采）
+- 观察窗口：2026-08-05 10:35—2026-08-06 10:35
+- 样本口径：16个关键词共读取291张有效搜索卡，按笔记路径去重274条，其中24小时信号25条；“1天前”按小于24小时处理
+- 归档关系：本区块新增为8月6日日报；8月5日及此前日期保持不变
+
+### 内容信号榜
+
+| 排名 | 主题簇 | 内容 | 作者 | 发布时间 | 可见互动 | 判断 |
+|---:|---|---|---|---|---:|---|
+| 1 | 断舍离 × 整理现场 | [给因为情绪问题导致一团糟的家断舍离](https://www.xiaohongshu.com/search_result?keyword=给因为情绪问题导致一团糟的家断舍离&source=web_search_result_notes&type=51) | 再想想 | 昨天13:55 | 5498赞、579藏、328评 | 详情复核；过程、空间变化与追更共同放大互动 |
+| 2 | 边界感 × 亲密关系 | [当伴侣希望你和异性保持边界感时](https://www.xiaohongshu.com/search_result?keyword=当伴侣希望你和异性保持边界感时&source=web_search_result_notes&type=51) | 小红爱上了阿绿 | 昨天21:45 | 511赞、260藏、24评 | 详情复核；具体行为冲突形成讨论 |
+| 3 | 极简 × 每日行动 | [每天扔点东西](https://www.xiaohongshu.com/search_result?keyword=每天扔点东西&source=web_search_result_notes&type=51) | 1121 | 昨天08:42 | 134赞、16藏、36评 | 详情复核；从一件物品解释空间功能 |
+| 4 | 断舍离 × 日常系统 | [每周固定做这6件事，我的生活越来越顺了](https://www.xiaohongshu.com/search_result?keyword=每周固定做这6件事我的生活越来越顺了&source=web_search_result_notes&type=51) | 孝真欧尼 | 昨天19:09 | 13赞 | 早期方法型信号 |
+| 5 | 衣橱 × 小任务 | [衣橱清理行动，冲！](https://www.xiaohongshu.com/search_result?keyword=衣橱清理行动冲&source=web_search_result_notes&type=51) | 丫或 | 1天前 | 9赞 | 扩展词发现，行动范围明确 |
+| 6 | 断舍离 × 衣服现场 | [断舍离｜集中断舍离一大批衣服](https://www.xiaohongshu.com/search_result?keyword=集中断舍离一大批衣服&source=web_search_result_notes&type=51) | 一只汤圆精 | 昨天22:41 | 6赞 | 与旧衣业务直接相关，仍处早期 |
+| 7 | 职场转型 × 经验复盘 | [字节AI产品上岸｜文科生微痛转行经验分享](https://www.xiaohongshu.com/search_result?keyword=字节AI产品上岸文科生微痛转行经验分享&source=web_search_result_notes&type=51) | 柚子学习日记 | 昨天18:44 | 27赞 | 女性成长扩展观察 |
+| 8 | 旧衣 × 回收决策 | [旧衣别直接装箱寄出｜回收前先避开这些坑](https://www.xiaohongshu.com/search_result?keyword=旧衣别直接装箱寄出回收前先避开这些坑&source=web_search_result_notes&type=51) | 蒋申清 | 昨天17:59 | 1赞 | 新鲜但互动低，保留为需求验证入口 |
+
+### 待复核信号
+
+- 断舍离搜索中出现一条2303赞卡片，页面只稳定返回“大鱼小昊日常、昨天23:19、2303”，标题缺失；按笔记标识6a73547000000000050319ef保留，复核时未稳定复现，因此不进入正式排名。
+
+### 需求／交易／品牌信号
+
+| 类型 | 内容 | 作者 | 发布时间 | 可见互动 | 处理 |
+|---|---|---|---|---:|---|
+| 服务体验 | [爱回收闲置变现｜养娃资金到位了](https://www.xiaohongshu.com/search_result?keyword=爱回收闲置变现养娃资金到位了&source=web_search_result_notes&type=51) | 伊妹卡哇伊 | 昨天17:55 | 305赞 | 较8月5日+184赞；现金结果驱动，单列交易热 |
+| 求助型 | [到底怎么断舍离啊](https://www.xiaohongshu.com/search_result?keyword=到底怎么断舍离啊&source=web_search_result_notes&type=51) | UaaU | 昨天22:51 | 63赞 | 明确反映“不知道怎么开始”的需求 |
+| 闲置交易 | [断舍离闲置包包](https://www.xiaohongshu.com/search_result?keyword=断舍离闲置包包&source=web_search_result_notes&type=51) | 挽星 | 昨天17:34 | 4赞 | 不并入内容榜 |
+| 闲置交易 | [博主闲置](https://www.xiaohongshu.com/search_result?keyword=博主闲置&source=web_search_result_notes&type=51) | 好困ee | 9小时前 | 3赞 | 不并入内容榜 |
+| 闲置交易 | [全新和二手衣服RM10起](https://www.xiaohongshu.com/search_result?keyword=全新二手衣服RM10起&source=web_search_result_notes&type=51) | 是小虹呀 | 1小时前 | 2赞 | 不并入内容榜 |
+
+### 同帖互动增量
+
+| 内容 | 8月5日值 | 8月6日值 | 可确认变化 |
+|---|---:|---:|---:|
+| [为什么我越来越不想听别人聊“主体性”了](https://www.xiaohongshu.com/search_result?keyword=为什么我越来越不想听别人聊主体性了&source=web_search_result_notes&type=51) | 3.8万赞、5894藏、1353评 | 4.2万赞、6804藏、1493评 | 约+4000赞、+910藏、+140评 |
+| [爱回收闲置变现｜养娃资金到位了](https://www.xiaohongshu.com/search_result?keyword=爱回收闲置变现养娃资金到位了&source=web_search_result_notes&type=51) | 121赞 | 305赞 | +184赞 |
+| [最想提醒自己的：不要靠买东西获得新生活感](https://www.xiaohongshu.com/search_result?keyword=不要靠买东西获得新生活感&source=web_search_result_notes&type=51) | 4040赞 | 4349赞 | +309赞 |
+| [女性力量外刊丨爱里最珍贵的，是“不忍心”](https://www.xiaohongshu.com/search_result?keyword=女性力量外刊爱里最珍贵的是不忍心&source=web_search_result_notes&type=51) | 510赞 | 724赞 | +214赞 |
+| [极简主义大神在此](https://www.xiaohongshu.com/search_result?keyword=极简主义大神在此&source=web_search_result_notes&type=51) | 4734赞 | 4851赞 | +117赞 |
+
+### 当日结论
+
+1. 整理现场、连续过程和明显空间变化是今天最强内容信号。
+2. 边界感讨论从概念解释转向伴侣交往中的具体行为判断。
+3. 每日一扔、衣橱清理等小任务继续稳定复现。
+4. 主体性反思仍在高速增长，但已归入周榜与月榜，不冒充24小时新帖。
+5. 旧衣服务体验增长快于旧衣内容，内容热与交易热继续分开。
+
+### 当日选题方向
+
+| 优先级 | 选题 | 当日依据 | 建议的解决路径 |
+|---|---|---|---|
+| A | **家乱不是意志力问题** | 整理现场帖5498赞、579藏、328评 | 从情绪、精力和可启动的小区域解释为什么家会失控 |
+| A | **十分钟处理一类衣物** | 每日一扔134赞、16藏、36评；衣橱清理多帖复现 | 设计可停止、可复盘的小任务 |
+| A | **边界感不靠解释证明** | 边界感帖511赞、260藏、24评 | 用具体行为区分解释、协商与主动避嫌 |
+| A | **回收前先检查四件事** | 新旧衣避坑帖与交易服务同窗出现 | 给出污损、口袋、隐私和可再用性检查路径 |
+| B | **旧衣处理先问去向** | 服务帖305赞且较昨日增加184赞 | 比较转卖、赠送、回收和再利用的不同结果 |
+
+### 排除项
+
+- 纯闲置交易和服务体验不进入内容榜；自有账号内容不进入外部热榜。
+- 标题缺失的2303赞卡片未因高互动自动升榜。
+
+### 数据缺口
+
+- “搬家清理”未稳定返回结果；“断舍离”首次查询为空，重试后恢复。
+- 搜索卡未显示藏评时不推断；同帖未复现不记为零。
+- 本轮成功补采替代当天失败状态，但不覆盖8月5日及更早日期。
 
 ---
 
